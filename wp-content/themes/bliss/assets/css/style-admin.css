@@ -1,0 +1,109 @@
+/*  Meta boxes  */
+div.cd-layout {  
+    width:200px;  
+    float:left;   
+}  
+  
+div.cd-layout input {  
+    display: none;    
+} 
+div.cd-layout label  {  
+	position: relative;
+} 
+div.cd-layout label > img {  
+	border: 2px solid transparent;
+} 
+div.cd-layout input[type=radio]:checked + label img {  
+	border-color: #2C9ACB;
+} 
+  
+#bluth_post_meta .clearfix:after {  
+    clear: both;  
+    content: ' ';  
+    display: block;  
+    font-size: 0;  
+    line-height: 0;  
+    visibility: hidden;  
+    width: 0;  
+    height: 0;  
+      
+}  
+  
+#bluth_post_meta label span {  
+    display:block;  
+    margin-top:5px;  
+} 
+
+#optionsframework-wrap #optionsframework .section.section-info{ 
+    border:none; 
+    background-color: transparent;
+    font-size: 20px; 
+    color: #ffffff; 
+    margin: 20px 0 0; 
+    padding: 0 20px; 
+    border-left: none;
+    position: relative;
+}
+#optionsframework-wrap #optionsframework .section.section-info:before {
+    background: none repeat scroll 0 0 #3498DB;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 20px;
+    margin-bottom: -1px;
+    position: absolute;
+    right: 20px;
+}
+
+#optionsframework-wrap #optionsframework .section.section-info h4{
+    background: #3498DB;
+    border: medium none;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    text-transform: uppercase;
+    width: auto;
+    letter-spacing: 2px;
+}
+
+#optionsframework-wrap #optionsframework .section.section-info h4:before {
+    background-color: #3498DB;
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+#optionsframework-wrap #optionsframework .section.section-info h4:after {
+    background-color: #3498DB;
+    content: "";
+    height: 100%;
+    right: 0;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.section-twitter_notification{
+    padding: 0!important;
+    line-height: 1.8;
+    font-size: 16px;
+    text-align: justify;
+    width: 100%;
+}
+.section-twitter_notification .controls{
+    width: auto!important;
+    padding: 20px 5% 30px 2.5%!important;
+    /*padding: 0!important;*/
+}
+.section-twitter_notification h4{
+    display: none;
+}
+.section-twitter_notification .option{
+    width: 100%!important;
+}

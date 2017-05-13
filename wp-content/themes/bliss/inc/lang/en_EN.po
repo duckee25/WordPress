@@ -1,0 +1,1797 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bliss\n"
+"POT-Creation-Date: 2014-04-02 11:34-0000\n"
+"PO-Revision-Date: 2014-04-02 11:39-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\Dropbox\\Bluth\\Themeforest\\Themes\\Bliss"
+"\\wordpress\\wp-content\\themes\\bliss\n"
+"X-Poedit-SearchPath-1: E:\\Dropbox\\Bluth\\Themeforest\\Themes\\Bliss"
+"\\wordpress\\wp-content\\themes\\bliss\\inc\\lang\n"
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/404.php:5
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/single.php:148
+msgid "Page not found"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/404.php:6
+msgid "We could not find the page you were looking for."
+msgstr "I CAN'T FIND THE PAGE YOU ARE LOOKING FOR"
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/404.php:8
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/index.php:86
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page-left-sidebar.php:68
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page-single-column.php:64
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page.php:71
+msgid "Try searching"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/author.php:52
+msgid "Popular articles by"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/author.php:85
+msgid "All articles by"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/comments.php:17
+#, php-format
+msgid "%d comment"
+msgstr "%d COMMENTS"
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/comments.php:29
+msgid "Older Comments"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/comments.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:126
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:127
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:128
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:129
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:140
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:178
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:141
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:179
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:142
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:197
+msgid "No results match your search."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:198
+msgid "Searching..."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:199
+msgid "Search Results"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:200
+msgid "see all"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:201
+msgid "Loading..."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:202
+msgid "No more posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:203
+msgid "See more articles"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:204
+msgid "No email provided"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:205
+msgid "Thank you for subscribing!"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:384
+msgid "Previous Page"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:398
+msgid "Next Page"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:487
+msgid "Pingback:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:487
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:513
+msgid "(Edit)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:497
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:500
+msgid "Author"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:504
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:563
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-audio.php:68
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-gallery.php:49
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-image.php:54
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-link.php:54
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-video.php:46
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content.php:55
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single-image.php:38
+msgid "Continue reading..."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:744
+msgid "No email address provided"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/functions.php:749
+msgid "Email address is invalid"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/index.php:82
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page-left-sidebar.php:65
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page-single-column.php:61
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page.php:68
+msgid "Post not found"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/index.php:84
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page-left-sidebar.php:66
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page-single-column.php:62
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/page.php:69
+msgid "We could not find that post you were looking for."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:32
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:229
+msgid "Image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:33
+msgid "Pattern"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:34
+msgid "Solid Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:45
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:173
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:388
+msgid "Theme Options"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:49
+msgid "Background"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:50
+msgid "What kind of background do you want?"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:57
+msgid "Background Image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:58
+msgid "Upload your background image here."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:65
+msgid "Favicon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:66
+msgid ""
+"Upload a favicon. Favicons are the icons that appear in the tabs of the "
+"browser and left of the address bar. (16x16 pixels)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:71
+msgid "Apple touch icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:72
+msgid ""
+"Icons that appear on your homescreen when you press \"Add to home screen\" "
+"on your device (114x114 pixels (PNG file))"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:77
+msgid "Show stripe overlay"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:78
+msgid ""
+"Uncheck this to remove the stripe overlay that covers the background image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:85
+msgid "Select a background pattern"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:86
+msgid "Select a background pattern from the list or upload your own below."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:108
+msgid "Upload Pattern"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:109
+msgid ""
+"Upload a new pattern here. If this feature is used it will overwrite the "
+"selection above."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:115
+msgid "Background Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:116
+msgid ""
+"Select the background color ( Only works if the custom color option is "
+"chosen )"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:124
+msgid "Facebook App Id"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:125
+msgid ""
+"Insert you Facebook app id here. If you don't have one for your webpage you "
+"can create it <a target=\"_blank\" href=\"https://developers.facebook.com/"
+"apps\">here</a>"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:130
+msgid "Enable Facebook comments for posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:131
+msgid ""
+"Check this to use Facebook comments instead of regular wordpress comments "
+"for posts. Requires a Facebook app id in the field above."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:137
+msgid "Disable Responsive CSS"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:138
+msgid ""
+"Check this to disable responsive css. Responsive css enable the webpage to "
+"adapt to every screen size allowing mobile users to browse the website more "
+"easily."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:144
+msgid "Blog Setup"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:145
+msgid ""
+"Select the blog setup you want, left sidebar, right sidebar or no sidebar. "
+"Default: Right sidebar"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:157
+msgid "Blog Layout"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:158
+msgid "Select the default blog layout."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:169
+msgid "Right-to-Left Language"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:170
+msgid "Check this if your language is written in a Right-to-Left direction"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:176
+msgid "Footer text"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:177
+msgid "{year} will be replaced with the current year"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:183
+msgid "Google Analytics"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:184
+msgid ""
+"Add your Google Analytics tracking code here. Google Analytics is a free web "
+"analytics service more info here: <a href=\"http://www.google.com/analytics/"
+"\">Google Analytics</a>"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:190
+msgid "Featured Tag"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:191
+msgid "The tag that the featured posts widget will use to fetch posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:197
+msgid "SEO plugin support"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:198
+msgid ""
+"Check this to give an SEO plugin control of meta description, title and open "
+"graph tags."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:205
+msgid "Header & Menu"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:210
+msgid "Header Type"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:211
+msgid "Choose your header type"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:222
+msgid "Header Background"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:223
+msgid ""
+"Choose your header background, to choose a color go to the Colors & Fonts "
+"page."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:228
+msgid "Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:233
+msgid "Header Background Image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:234
+msgid "Upload your header background image here"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:240
+msgid "Logo"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:241
+msgid ""
+"Upload your logo here. Remove the image to show the name of the website in "
+"text instead. (Recommended: x90 height for normal heading)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:246
+msgid "Mini Logo"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:247
+msgid ""
+"Upload your mini logo here. Logo that appears in the header when the user "
+"scrolls down on your website."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:252
+msgid "Enable menu hover"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:253
+msgid "Check this to show the menus sub-items when hovered over the top item."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:259
+msgid "Disable header description"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:260
+msgid "Check this to disable the description showing up in the header."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:266
+msgid "Disable Sticky Header"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:267
+msgid ""
+"Check this to disable the sticky header feature. (The header won't stay "
+"fixed at the top of the window when you scroll down)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:273
+msgid "Show search in header"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:274
+msgid "Uncheck this to remove the search input from the header"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:280
+msgid "Posts & Pages"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:285
+msgid "Post Setup"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:286
+msgid ""
+"Select the default post setup you want, left sidebar, right sidebar or no "
+"sidebar. Default: Right sidebar"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:298
+msgid "Enable soft border on all boxed areas"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:299
+msgid ""
+"Check this to enable a soft grey border on all boxed areas ( posts, pages, "
+"sidebars etc.)."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:305
+msgid "Disable cropping of featured images"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:306
+msgid ""
+"Check this to disable cropped images, so they appear as they are in the post."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:312
+msgid "Enable page comments"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:313
+msgid "Check this to enable comments on all pages as well as posts."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:319
+msgid "Show year in post date"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:320
+msgid "Check this to display the year of the post below the post title."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:326
+msgid "Disable share buttons at the bottom of posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:327
+msgid "Check this to remove the \"Share\" button in the post footer."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:333
+msgid "Show share buttons on:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:334
+msgid "Where do you want the share buttons to appear?"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:344
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1032
+msgid "Pages"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:345
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1033
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_tabs.php:139
+msgid "Posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:346
+msgid "Front page"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:349
+msgid "Disable share buttons:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:350
+msgid "Check to disable the specific share button"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:375
+msgid "Disable the tags for posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:376
+msgid "Check this to remove the post tags on all posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:382
+msgid "Disable next/previous buttons"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:383
+msgid ""
+"Check this to remove the Next/Previous buttons at the bottom of each post."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:389
+msgid "Disable Related Posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:390
+msgid ""
+"Related articles are show below each post when you view it. Check this to "
+"disable that feature."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:396
+msgid "Enable posts excerpt (post summary)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:397
+msgid ""
+"Check this to only show the post excerpt or the summary of a post in the "
+"browse page. The default behavior is to show the whole post but you can "
+"provide a cut-off point by adding the <a href=\"http://codex.wordpress.org/"
+"Customizing_the_Read_More\" target=\"_blank\">More</a> tag."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:403
+msgid "Exerpt Length"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:404
+msgid ""
+"How many words would you like to show in the post summary. Default: 55 words"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:411
+msgid "Show Continue Reading link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:412
+msgid ""
+"Uncheck this to hide the Continue Reading link that appears below the post "
+"conent."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:418
+msgid "Open featured post images in lightbox"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:419
+msgid ""
+"Check this to open featured post images in a lightbox instead of linking to "
+"the post itself."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:425
+msgid "Standard Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:426
+msgid "Select an icon for the standard post type. (Default: icon-calendar-3)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:433
+msgid "Standard Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:434
+msgid "Select the color for the standard post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:441
+msgid "Gallery Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:442
+msgid "Select an icon for the gallery post type. (Default: icon-picture)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:449
+msgid "Gallery Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:450
+msgid "Select the color for the gallery post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:457
+msgid "Image Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:458
+msgid "Select an icon for the image post type. (Default: icon-picture-1)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:465
+msgid "Image Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:466
+msgid "Select the color for the image post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:473
+msgid "Link Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:474
+msgid "Select an icon for the link post type. (Default: icon-link)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:481
+msgid "Link Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:482
+msgid "Select the color for the link post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:489
+msgid "Quote Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:490
+msgid "Select an icon for the quote post type. (Default: icon-quote-left)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:497
+msgid "Quote Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:498
+msgid "Select the color for the quote post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:505
+msgid "Audio Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:506
+msgid "Select an icon for the audio post type. (Default: icon-volume-up)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:513
+msgid "Audio Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:514
+msgid "Select the color for the audio post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:521
+msgid "Video Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:522
+msgid "Select an icon for the video post type. (Default: icon-videocam)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:529
+msgid "Video Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:530
+msgid "Select the color for the video post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:537
+msgid "Status Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:538
+msgid "Select an icon for the status post type. (Default: icon-book-1)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:545
+msgid "Status Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:546
+msgid "Select the color for the status post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:553
+msgid "Facebook Status Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:554
+msgid ""
+"Select an icon for the facebook status post type. (Default: icon-facebook-1)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:561
+msgid "Twitter Status Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:562
+msgid ""
+"Select an icon for the twitter status post type. (Default: icon-twitter-1)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:569
+msgid "Google+ Status Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:570
+msgid "Select an icon for the google status post type. (Default: icon-gplus-2)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:577
+msgid "Sticky Post Icon"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:578
+msgid "Select an icon for sticky posts. (Default: icon-pin)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:585
+msgid "Sticky Post Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:586
+msgid "Select the color for the sticky post icon and links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:596
+msgid "Users"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:600
+msgid "Show author on front page"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:601
+msgid "Check this to show the author on the front page in the title area."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:607
+msgid "Enable author box"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:608
+msgid "Uncheck this to remove the author box below each post."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:618
+msgid "Author Cover for "
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:619
+msgid "Upload a cover for the author box"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:624
+msgid "Author Box Avatar for "
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:625
+msgid ""
+"Upload a custom avatar for the author box (will use gravatar if nothing is "
+"set) (120x120)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:630
+msgid " Google+ profile link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:631
+msgid "Google+ profile link, needed for Google Authorship Verification"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:639
+msgid "Colors & Fonts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:644
+msgid "Color Theme"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:645
+msgid "Choose a predefined color theme"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:657
+msgid "Disable link animations"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:658
+msgid "Check this to remove the link animations for each post."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:664
+msgid "Disable background for links in posts and pages"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:665
+msgid ""
+"Check this to disable the background for links and instead use the color on "
+"the text."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:671
+msgid "Custom Color Theme"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:672
+msgid "Check this to make your own color theme"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:678
+msgid "Main Theme Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:679
+msgid "Select the theme's main color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:686
+msgid "Top Banner Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:687
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:695
+msgid "Select the color for the top header that includes the logo"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:694
+msgid "Top Banner Font Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:702
+msgid "Top Banner Social Buttons"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:703
+msgid "Select the color for the social buttons in the top banner"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:710
+msgid "Top Header Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:711
+msgid "Select the color for the top header that includes the menu"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:718
+msgid "Top Header Font Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:719
+msgid "Select the color for the top header menu links"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:726
+msgid "Post Header Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:727
+msgid "Select the color for the top header of each post"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:734
+msgid "Body Font Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:735
+msgid "Select the color for the font on each post"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:742
+msgid "Widget Header Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:743
+msgid "Select the default color for the top header of each widget"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:750
+msgid "Widget Header Font Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:751
+msgid "Select the color for the heading font in each widget"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:758
+msgid "Footer Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:759
+msgid "Select the default color for the footer"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:766
+msgid "Footer Header Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:767
+msgid "Select the default color for the footer headers"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:774
+msgid "Footer Font Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:775
+msgid "Select the default color for the footer font"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:783
+msgid "Heading font"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:784
+msgid "Select a font type for all heading"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:790
+msgid "Main font"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:791
+msgid "Select a font type for normal text"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:797
+msgid "Main font size"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:798
+msgid "The size of the text in posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:813
+msgid "Main font line height"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:814
+msgid "The spacing between each line of the text in posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:833
+msgid "Menu links font"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:834
+msgid "Select a font type for the menu items in the header"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:840
+msgid "Brand font"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:841
+msgid ""
+"Select a font type for the brand. If you use text instead of a logo in your "
+"header this setting changes the font family for that text."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:851
+msgid "Advertising"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:856
+msgid "Google Publisher ID"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:857
+msgid ""
+"Found in the top right corner of your <a href=\"https://www.google.com/"
+"adsense/\" target=\"_blank\">adsense account</a>."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:863
+msgid "Google Ad unit ID"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:864
+msgid ""
+"Found in your Ad Units area under <strong>ID</strong> <a href=\"https://www."
+"google.com/adsense/app#myads-springboard\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:870
+msgid "Ad spot #1 - Above the header."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:871
+msgid ""
+"Select what kind of ad you want added above the top menu. <a target=\"_blank"
+"\" href=\"http://bluth.is/wordpress/bliss/wp-content/uploads/2013/08/"
+"adspace_top.jpg\">See Example</a>"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:876
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:913
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:974
+msgid "None"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:877
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:914
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:975
+msgid "Shortcode or HTML code like Adsense"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:878
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:915
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:976
+msgid "Image with a link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:879
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:916
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:977
+msgid "Google Ads"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:883
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:920
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:981
+msgid "Add Shortcode or HTML code here"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:884
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:921
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:982
+msgid ""
+"Insert a shortcode provided by this theme or any plugin. You can also add "
+"advertising code from any provider or use plain html. To add Adsense just "
+"paste the embed code here that they provide and save."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:891
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:928
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:989
+msgid "Upload Image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:892
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:990
+msgid ""
+"Upload an image to add above the header menu and add a link for it in the "
+"input box below"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:898
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:935
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:996
+msgid "Image link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:899
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:936
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:997
+msgid "Add a link to the image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:907
+msgid "Ad spot #2 - Between posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:908
+msgid ""
+"Here you can add advertising between posts. <a target=\"_blank\" href="
+"\"http://bluth.is/wordpress/bliss/wp-content/uploads/2013/08/adspace_between."
+"jpg\">See Example</a>"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:929
+msgid ""
+"Upload an image to add between posts and add a link for it in the input box "
+"below"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:943
+msgid "Display Frequency"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:944
+msgid "How often do you want the ad to appear?"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:950
+msgid "Between every post"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:951
+msgid "Every 2th posts"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:952
+msgid "Every 3th post"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:953
+msgid "Every 4th post"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:954
+msgid "Every 5th post"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:958
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1004
+msgid "Add white background"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:959
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1005
+msgid "Check this to wrap the ad content in a white box"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:968
+msgid "Ad spot #3 - Above the content."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:969
+msgid ""
+"Select what kind of ad you want added above the main container. <a target="
+"\"_blank\" href=\"http://bluth.is/wordpress/bliss/wp-content/uploads/2013/08/"
+"adspace_above_content.jpg\">See Example</a>"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1012
+msgid "Add padding"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1013
+msgid "Add padding to the banner container"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1020
+msgid "Banner placement"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1021
+msgid "Where do you want the banner to appear?"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1031
+msgid "Frontpage"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1037
+msgid "Social"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1042
+msgid "Social Sharing image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1043
+msgid ""
+"The image that gets shared if there is no image in the post (or if it's the "
+"front page)."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1048
+msgid "Facebook"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1049
+msgid "Your facebook link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1055
+msgid "Twitter"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1056
+msgid "Your twitter link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1062
+msgid "Google+"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1063
+msgid "Your google+ link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1069
+msgid "LinkedIn"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1070
+msgid "Your LinkedIn link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1076
+msgid "Youtube"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1077
+msgid "Your youtube link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1083
+msgid "RSS"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1084
+msgid "Your RSS feed"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1090
+msgid "Flickr"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1091
+msgid "Your Flickr link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1097
+msgid "Vimeo"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1098
+msgid "Your vimeo link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1104
+msgid "Pinterest"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1105
+msgid "Your pinterest link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1111
+msgid "Dribbble"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1112
+msgid "Your dribbble link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1118
+msgid "Tumblr"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1119
+msgid "Your tumblr link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1125
+msgid "Instagram"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1126
+msgid "Your instagram link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1132
+msgid "Viadeo"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1133
+msgid "Your viadeo link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1139
+msgid "Custom CSS"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1143
+msgid "Add Custom CSS rules here"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/options.php:1144
+msgid ""
+"Here you can overwrite specific css rules if you want to customize your "
+"theme a little. Write into this box just like you would do in a regular css "
+"file. Example: body{ color: #444; }"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/searchform.php:4
+msgid "Search.."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:517
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1956
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1956
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/meta-bottom.php:17
+msgid "Share story"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/meta-top.php:9
+msgid "View all posts in"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/recent-posts.php:7
+msgid "Things you might like"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/related-posts.php:27
+msgid "You might also like"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-audio.php:24
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-gallery.php:20
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-image.php:22
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-link.php:20
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-status.php:36
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-video.php:18
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content.php:22
+msgid "Author Name"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-audio.php:71
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-gallery.php:51
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-image.php:57
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-link.php:55
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content-video.php:49
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/content.php:58
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single-audio.php:56
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single-gallery.php:42
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single-image.php:39
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single-link.php:50
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single-status.php:58
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single-video.php:39
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/post-format/single.php:43
+msgid "Pages:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:204
+msgid "Clear"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:205
+msgid "Default"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:206
+msgid "Select Color"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:252
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:284
+msgid "Default options restored."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-framework.php:338
+msgid "Options saved."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-media-uploader.php:54
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-media-uploader.php:111
+msgid "Upload"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-media-uploader.php:56
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-media-uploader.php:112
+msgid "Remove"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/theme-options/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_author.php:26
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_category.php:46
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post.php:91
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post_old.php:173
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_flickr2.php:120
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_html.php:56
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_imagebox.php:26
+msgid "Title:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post.php:95
+msgid "Tag to get:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post.php:100
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post_old.php:186
+msgid "Display the excerpt"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post.php:115
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post_old.php:201
+msgid "Order By:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post_old.php:178
+msgid "Video Posts show the video instead of an image"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_featured_post_old.php:182
+msgid "Featured Posts display in slider"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_flickr2.php:17
+msgid "Displays recent Flickr photos in a widget"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_flickr2.php:21
+msgid "Bluth Flickr"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_flickr2.php:125
+msgid "Flickr ID:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_flickr2.php:131
+msgid "Flickr Username:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_flickr2.php:136
+msgid "Photos Count:"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_html.php:75
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_instagram.php:132
+msgid "Followers"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_instagram.php:136
+msgid "Following"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_instagram.php:140
+msgid "Images"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_newsletter.php:116
+msgid "Your Email address"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_newsletter.php:118
+msgid "Subscribe!"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_tabs.php:140
+msgid "Comments"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/bl_tabs.php:141
+msgid "Tags"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/widgets.php:85
+msgid "Footer Widgets"
+msgstr ""
+
+#: E:\Dropbox\Bluth\Themeforest\Themes\Bliss\wordpress\wp-content\themes\bliss/inc/widgets/widgets.php:87
+msgid "There are 4 slots available in the footer"
+msgstr ""
