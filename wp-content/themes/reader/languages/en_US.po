@@ -1,0 +1,991 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: framework/options/option.php:524
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-02 20:33-0500\n"
+"PO-Revision-Date: 2015-01-02 20:33-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: plurals=2; plural=(n > 1)\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:28
+msgid "BACK HOME"
+msgstr ""
+
+#: comments.php:9
+msgid "Enter the password to view comments."
+msgstr ""
+
+#: comments.php:34 content-meta.php:45
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:34 content-meta.php:45
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:34 content-meta.php:45
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:64
+msgid "You are not signed in."
+msgstr ""
+
+#: comments.php:37 comments.php:64
+msgid "Sign in"
+msgstr ""
+
+#: comments.php:37 comments.php:64
+msgid "to post comments."
+msgstr ""
+
+#: comments.php:40
+msgid "Good! you are signed in. You can post comments."
+msgstr ""
+
+#: comments.php:42
+msgid "You can post comments in this post."
+msgstr ""
+
+#: comments.php:70
+msgid "Post A Reply"
+msgstr ""
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:75
+msgid "Log out"
+msgstr ""
+
+#: comments.php:85
+msgid "Full Name"
+msgstr ""
+
+#: comments.php:90
+msgid "Email"
+msgstr ""
+
+#: comments.php:93
+msgid "Website (optional)"
+msgstr ""
+
+#: comments.php:98
+msgid "Write your comment here"
+msgstr ""
+
+#: comments.php:102
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:117
+msgid "Comments are closed"
+msgstr ""
+
+#: content-gallery.php:20
+msgid "Track:"
+msgstr ""
+
+#: content-meta.php:14
+msgid "jS M Y"
+msgstr ""
+
+#: content-meta.php:38
+msgid "Job Posts"
+msgstr ""
+
+#: content-meta.php:45
+msgid "off"
+msgstr ""
+
+#: functions.php:60 functions.php:61
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:215
+msgid " Details: "
+msgstr ""
+
+#: functions.php:228 single.php:57
+msgid "Location:"
+msgstr ""
+
+#: functions.php:400
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: functions.php:401
+msgid "Reply"
+msgstr ""
+
+#: functions.php:507
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:565
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:566
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:567
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:568
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:569
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:570
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:571
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:572
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:573
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:574
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:575
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:576
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:577
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:578
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:579
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:580
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:581
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:99
+msgid "Toggle navigation"
+msgstr ""
+
+#: page.php:39 single.php:47 template-blog-classic.php:51
+#: template-blog-grid.php:57 template-blog-grid.php:88 include/helper.php:58
+#: include/helper.php:97 include/helper.php:209
+msgid "Pages:"
+msgstr ""
+
+#: page.php:54
+msgid "Share This Page:"
+msgstr ""
+
+#: single.php:67
+msgid "Tags:"
+msgstr ""
+
+#: single.php:71
+msgid "Share This Post:"
+msgstr ""
+
+#: single.php:92
+msgid "About This Author"
+msgstr ""
+
+#: template-blog-classic.php:38 template-blog-grid.php:45
+#: template-blog-grid.php:76 include/helper.php:181
+msgid "Featured"
+msgstr ""
+
+#: template-blog-classic.php:63 template-blog-grid.php:106
+msgid "No Posts Found."
+msgstr ""
+
+#: template-blog-classic.php:69
+msgid "Load More"
+msgstr ""
+
+#: template-blog-grid.php:63 template-blog-grid.php:94 include/helper.php:64
+#: include/helper.php:103
+msgid "Read More"
+msgstr ""
+
+#: framework/options/option.php:10
+msgid "The Reader Option Panel"
+msgstr ""
+
+#: framework/options/option.php:14
+msgid "General Settings"
+msgstr ""
+
+#: framework/options/option.php:19 framework/options/option.php:26
+msgid "Logo"
+msgstr ""
+
+#: framework/options/option.php:27
+msgid "Upload your own logo ."
+msgstr ""
+
+#: framework/options/option.php:32
+msgid "Logo Text"
+msgstr ""
+
+#: framework/options/option.php:33
+msgid "The text of the logo ."
+msgstr ""
+
+#: framework/options/option.php:38
+msgid "Alternative Logo Image (Retina Version)"
+msgstr ""
+
+#: framework/options/option.php:39
+msgid ""
+"Please name your file following the  (e.g. logo-alt.png) with a suffix @2x "
+"(e.g. logo-alt@2x.png)"
+msgstr ""
+
+#: framework/options/option.php:43 framework/options/option.php:44
+msgid "Logo for this admin pagel"
+msgstr ""
+
+#: framework/options/option.php:49
+msgid "Logo height (in pixels)"
+msgstr ""
+
+#: framework/options/option.php:50
+msgid "Choose height for the Logo"
+msgstr ""
+
+#: framework/options/option.php:56
+msgid "General"
+msgstr ""
+
+#: framework/options/option.php:63
+msgid "Enable Loading Screen"
+msgstr ""
+
+#: framework/options/option.php:64
+msgid "Choose if you want to show a loading screen."
+msgstr ""
+
+#: framework/options/option.php:69
+msgid "Responsive/mobile design"
+msgstr ""
+
+#: framework/options/option.php:70
+msgid ""
+"Enable this to adapt your page to differents screen sizes(mobile, tablet, "
+"desktop, etc)."
+msgstr ""
+
+#: framework/options/option.php:76
+msgid "Feedburner URL"
+msgstr ""
+
+#: framework/options/option.php:77
+msgid ""
+"Enter your full FeedBurner URL to replace the default feed URL by Wordpress."
+msgstr ""
+
+#: framework/options/option.php:83
+msgid "Analytics Code"
+msgstr ""
+
+#: framework/options/option.php:91
+msgid "Custom Fonts"
+msgstr ""
+
+#: framework/options/option.php:95
+msgid "FontFamily url (body)"
+msgstr ""
+
+#: framework/options/option.php:96
+msgid ""
+"Enter the url of the Google font you want. ej: http:&#47;&#47;fonts."
+"googleapis.com/css?family=Roboto:400,300,600,700"
+msgstr ""
+
+#: framework/options/option.php:101
+msgid "FontFamily name (body)"
+msgstr ""
+
+#: framework/options/option.php:102
+msgid "Enter the declaration of your google font."
+msgstr ""
+
+#: framework/options/option.php:111
+msgid "Site Favicon"
+msgstr ""
+
+#: framework/options/option.php:117
+msgid "Recommended: .ICO 64x64px size"
+msgstr ""
+
+#: framework/options/option.php:118
+msgid "General Site Icon"
+msgstr ""
+
+#: framework/options/option.php:124
+msgid "Recommended: .PNG 60x60px size"
+msgstr ""
+
+#: framework/options/option.php:125
+msgid "Icon for iPhone"
+msgstr ""
+
+#: framework/options/option.php:131
+msgid "Recommended: .PNG 120x120px size"
+msgstr ""
+
+#: framework/options/option.php:132
+msgid "Icon for iPhone Retina"
+msgstr ""
+
+#: framework/options/option.php:138
+msgid "Recommended: .PNG 76x76px size"
+msgstr ""
+
+#: framework/options/option.php:139
+msgid "Icon for iPad"
+msgstr ""
+
+#: framework/options/option.php:145
+msgid "Recommended: .PNG 152x152px size"
+msgstr ""
+
+#: framework/options/option.php:146
+msgid "Icon for iPad Retina"
+msgstr ""
+
+#: framework/options/option.php:151
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/options/option.php:158
+msgid "Enable Custom Color"
+msgstr ""
+
+#: framework/options/option.php:159
+msgid "Set your custom color scheme."
+msgstr ""
+
+#: framework/options/option.php:163
+msgid "Select Color"
+msgstr ""
+
+#: framework/options/option.php:165
+msgid "Select Color Scheme"
+msgstr ""
+
+#: framework/options/option.php:169
+msgid "lime"
+msgstr ""
+
+#: framework/options/option.php:172
+msgid "alizarin"
+msgstr ""
+
+#: framework/options/option.php:175
+msgid "green-sea"
+msgstr ""
+
+#: framework/options/option.php:178
+msgid "nephritis"
+msgstr ""
+
+#: framework/options/option.php:181
+msgid "anethyst"
+msgstr ""
+
+#: framework/options/option.php:184
+msgid "peter-river"
+msgstr ""
+
+#: framework/options/option.php:194
+msgid "Show color switcher"
+msgstr ""
+
+#: framework/options/option.php:195
+msgid "Enable this to show the color switcher panel in the front-end"
+msgstr ""
+
+#: framework/options/option.php:201
+msgid "404 Page"
+msgstr ""
+
+#: framework/options/option.php:208
+msgid "Page Not Found Title"
+msgstr ""
+
+#: framework/options/option.php:218
+msgid "Title Labels"
+msgstr ""
+
+#: framework/options/option.php:224
+msgid "Blog label"
+msgstr ""
+
+#: framework/options/option.php:229
+#, php-format
+msgid "%s is for the category name"
+msgstr ""
+
+#: framework/options/option.php:230
+msgid "Post Category Archive Title"
+msgstr ""
+
+#: framework/options/option.php:236
+#, php-format
+msgid "%s is for the tag name"
+msgstr ""
+
+#: framework/options/option.php:237
+msgid "Post Tag Archive Title"
+msgstr ""
+
+#: framework/options/option.php:243
+#, php-format
+msgid "%s is for the year"
+msgstr ""
+
+#: framework/options/option.php:244
+msgid "Yearly Archive Title"
+msgstr ""
+
+#: framework/options/option.php:250
+#, php-format
+msgid "%s is for the month"
+msgstr ""
+
+#: framework/options/option.php:251
+msgid "Monthly Archive Title"
+msgstr ""
+
+#: framework/options/option.php:257
+#, php-format
+msgid "%s is for the day"
+msgstr ""
+
+#: framework/options/option.php:258
+msgid "Daily Archive Title"
+msgstr ""
+
+#: framework/options/option.php:264
+#, php-format
+msgid "First %s is for total results found, the second %s is for the query"
+msgstr ""
+
+#: framework/options/option.php:265
+msgid "Search Result Title"
+msgstr ""
+
+#: framework/options/option.php:270 framework/options/option.php:271
+msgid "Label for Job Posts archive"
+msgstr ""
+
+#: framework/options/option.php:279
+msgid "Blog/Archive Settings"
+msgstr ""
+
+#: framework/options/option.php:284
+msgid "Blog Style"
+msgstr ""
+
+#: framework/options/option.php:285
+msgid "Choose The blog style"
+msgstr ""
+
+#: framework/options/option.php:290
+msgid "Classic timeline"
+msgstr ""
+
+#: framework/options/option.php:294
+msgid "Grid"
+msgstr ""
+
+#: framework/options/option.php:303
+msgid "Sidebar placement"
+msgstr ""
+
+#: framework/options/option.php:304
+msgid ""
+"Choose if you want to show a Sidebar at the right side, or two at both sides"
+msgstr ""
+
+#: framework/options/option.php:309
+msgid "Both sidebar"
+msgstr ""
+
+#: framework/options/option.php:313
+msgid "Right"
+msgstr ""
+
+#: framework/options/option.php:323
+msgid "Load Post with ajax"
+msgstr ""
+
+#: framework/options/option.php:324
+msgid "Load Post when scroll down, this option will disable the navigation"
+msgstr ""
+
+#: framework/options/option.php:330
+msgid "Word Limit Excerpt"
+msgstr ""
+
+#: framework/options/option.php:331
+msgid "Set a limit number of words for each excerpt in blog."
+msgstr ""
+
+#: framework/options/option.php:336
+msgid "Word Limit Excerpt (grid)"
+msgstr ""
+
+#: framework/options/option.php:337
+msgid "Set a limit number of words for each excerpt in blog (for grid style)."
+msgstr ""
+
+#: framework/options/option.php:342
+msgid "Show Post Thumbnail automaticaly"
+msgstr ""
+
+#: framework/options/option.php:343
+msgid ""
+"Show Post Thumbnail automaticaly, if not, you can place your thumbnail using "
+"this shortcode []"
+msgstr ""
+
+#: framework/options/option.php:348 framework/options/option.php:380
+msgid "Uppercase Title Post"
+msgstr ""
+
+#: framework/options/option.php:353
+msgid "Load Post with ajax(clasic)"
+msgstr ""
+
+#: framework/options/option.php:354
+msgid "if Load Post Ajax is enabled, set a limit to load posts"
+msgstr ""
+
+#: framework/options/option.php:359
+msgid "Load Post with ajax(grid)"
+msgstr ""
+
+#: framework/options/option.php:360
+msgid "If Load Post Ajax is enabled, set a limit to load posts"
+msgstr ""
+
+#: framework/options/option.php:368
+msgid "Single Post"
+msgstr ""
+
+#: framework/options/option.php:374
+msgid "Centered Header for pages"
+msgstr ""
+
+#: framework/options/option.php:375
+msgid ""
+"turn on if you want the header in pages be centered; turn off and the page "
+"will look like the general design"
+msgstr ""
+
+#: framework/options/option.php:385
+msgid "Meta Elements in post"
+msgstr ""
+
+#: framework/options/option.php:386
+msgid "Choose the meta elements to show in each posts"
+msgstr ""
+
+#: framework/options/option.php:391
+msgid "User"
+msgstr ""
+
+#: framework/options/option.php:395
+msgid "Date"
+msgstr ""
+
+#: framework/options/option.php:399
+msgid "Category"
+msgstr ""
+
+#: framework/options/option.php:403
+msgid "Comments"
+msgstr ""
+
+#: framework/options/option.php:415
+msgid "Show Biography in post"
+msgstr ""
+
+#: framework/options/option.php:422
+msgid "Portfolio"
+msgstr ""
+
+#: framework/options/option.php:426
+msgid "Portfolio order"
+msgstr ""
+
+#: framework/options/option.php:427 framework/options/option.php:529
+msgid "Choose how you want to order your portfolio items"
+msgstr ""
+
+#: framework/options/option.php:433
+msgid "Order by date of publication"
+msgstr ""
+
+#: framework/options/option.php:437
+msgid "Order by author name"
+msgstr ""
+
+#: framework/options/option.php:441
+msgid "Order by Title"
+msgstr ""
+
+#: framework/options/option.php:445
+msgid "Random order"
+msgstr ""
+
+#: framework/options/option.php:452
+msgid "Limit Number of Items"
+msgstr ""
+
+#: framework/options/option.php:453
+msgid "Choose the limit of items to show the portfolio"
+msgstr ""
+
+#: framework/options/option.php:458
+msgid "Ascending Order Portfolio"
+msgstr ""
+
+#: framework/options/option.php:459
+msgid "Choose if you want to show the portfolio items in Ascending Order"
+msgstr ""
+
+#: framework/options/option.php:469
+msgid "Share Post"
+msgstr ""
+
+#: framework/options/option.php:473
+msgid "Facebook"
+msgstr ""
+
+#: framework/options/option.php:478
+msgid "Twitter"
+msgstr ""
+
+#: framework/options/option.php:483
+msgid "Linkedin"
+msgstr ""
+
+#: framework/options/option.php:488
+msgid "Pinterest"
+msgstr ""
+
+#: framework/options/option.php:493
+msgid "GooglePlus"
+msgstr ""
+
+#: framework/options/option.php:498
+msgid "Reddit"
+msgstr ""
+
+#: framework/options/option.php:503
+msgid "Mail"
+msgstr ""
+
+#: framework/options/option.php:508
+msgid "Tumblr"
+msgstr ""
+
+#: framework/options/option.php:517
+msgid "Footer"
+msgstr ""
+
+#: framework/options/option.php:523
+msgid "Copyrights"
+msgstr ""
+
+#: framework/options/option.php:528
+msgid "Footer Style"
+msgstr ""
+
+#: framework/options/option.php:535
+msgid "Dark"
+msgstr ""
+
+#: framework/options/option.php:539
+msgid "Light"
+msgstr ""
+
+#: framework/options/option.php:549
+msgid "Width footer widget 1"
+msgstr ""
+
+#: framework/options/option.php:558
+msgid "Width footer widget 2"
+msgstr ""
+
+#: framework/options/option.php:567
+msgid "Width footer widget 3"
+msgstr ""
+
+#: framework/options/option.php:576
+msgid "Custom Codes"
+msgstr ""
+
+#: framework/options/option.php:583
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/options/option.php:584
+msgid "Write your custom css here."
+msgstr ""
+
+#: framework/options/option.php:591
+msgid "Custom JavaScript"
+msgstr ""
+
+#: framework/options/option.php:592
+msgid "Write your custom js here."
+msgstr ""
+
+#: include/helper.php:129 include/helper.php:234
+msgid "Load"
+msgstr ""
+
+#: include/helper.php:262
+#, php-format
+msgid "%s' Post"
+msgstr ""
+
+#: widgets/about-us.php:17
+msgid "(theme)About Us"
+msgstr ""
+
+#: widgets/about-us.php:73 widgets/advertisements.php:116
+#: widgets/job-posts.php:99 widgets/popular-post.php:106
+#: widgets/recent-post.php:93 widgets/twitter-feed.php:63
+msgid "Title:"
+msgstr ""
+
+#: widgets/about-us.php:77
+msgid "Logo url:"
+msgstr ""
+
+#: widgets/about-us.php:82
+msgid "Text :"
+msgstr ""
+
+#: widgets/advertisements.php:17
+msgid "(theme)Advertisements"
+msgstr ""
+
+#: widgets/advertisements.php:112
+msgid "Advertisements"
+msgstr ""
+
+#: widgets/advertisements.php:121
+msgid "Image-1 link:"
+msgstr ""
+
+#: widgets/advertisements.php:125
+msgid "Ad-1 url:"
+msgstr ""
+
+#: widgets/advertisements.php:129
+msgid "Ad-1 :"
+msgstr ""
+
+#: widgets/advertisements.php:136
+msgid "Image-2 link:"
+msgstr ""
+
+#: widgets/advertisements.php:140
+msgid "Ad-2 url:"
+msgstr ""
+
+#: widgets/advertisements.php:144
+msgid "Ad-2 title:"
+msgstr ""
+
+#: widgets/advertisements.php:153
+msgid "Image-3 link:"
+msgstr ""
+
+#: widgets/advertisements.php:157
+msgid "Ad-3 url:"
+msgstr ""
+
+#: widgets/advertisements.php:161
+msgid "Ad-3 title:"
+msgstr ""
+
+#: widgets/advertisements.php:168
+msgid "Image-4 link:"
+msgstr ""
+
+#: widgets/advertisements.php:172
+msgid "Ad-4 url:"
+msgstr ""
+
+#: widgets/advertisements.php:176
+msgid "Ad-4 title:"
+msgstr ""
+
+#: widgets/job-posts.php:19
+msgid "(theme)Job Posts"
+msgstr ""
+
+#: widgets/job-posts.php:69
+msgid "View All Jobs"
+msgstr ""
+
+#: widgets/job-posts.php:96
+msgid "READER'S JOB BOARD"
+msgstr ""
+
+#: widgets/job-posts.php:104
+msgid "Number of job posts to show:"
+msgstr ""
+
+#: widgets/job-posts.php:110 widgets/recent-post.php:104
+msgid "Random Ordered"
+msgstr ""
+
+#: widgets/job-posts.php:115
+msgid "You need to install the JobPosting-Dex plugin"
+msgstr ""
+
+#: widgets/popular-post.php:17
+msgid "(theme)Popular Post Thumbnail"
+msgstr ""
+
+#: widgets/popular-post.php:102
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/popular-post.php:112
+msgid "Popular Posts Order By:"
+msgstr ""
+
+#: widgets/popular-post.php:114
+msgid "Highest Comments"
+msgstr ""
+
+#: widgets/popular-post.php:115
+msgid "Highest Views"
+msgstr ""
+
+#: widgets/popular-post.php:121 widgets/recent-post.php:98
+msgid "Number of items to show:"
+msgstr ""
+
+#: widgets/recent-post.php:17
+msgid "(theme)Recent Post Thumbnail"
+msgstr ""
+
+#: widgets/social-icons.php:17
+msgid "(theme)Social Icons"
+msgstr ""
+
+#: widgets/twitter-feed.php:17
+msgid "(theme)Twitter Feed Slider"
+msgstr ""
+
+#: widgets/twitter-feed.php:67
+msgid "Username:"
+msgstr ""
+
+#: widgets/twitter-feed.php:71
+msgid "Number of tweets to show:"
+msgstr ""

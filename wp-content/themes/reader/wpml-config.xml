@@ -1,0 +1,29 @@
+<wpml-config>	
+    <custom-fields>
+        <custom-field action="translate">meta-box-one-page</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">jobpost</custom-type>
+    </custom-types>    
+    <taxonomies>       
+    </taxonomies>    
+    <admin-texts>
+		<key name="r_option">
+			<!-- Site Strings -->
+			<key name="logo_text" />
+			<key name="404_title" />
+			<key name="label_blog" />
+			<key name="label_category" />
+			<key name="label_tag" />
+			<key name="label_time_year" />
+			<key name="label_time_month" />
+			<key name="label_time_day" />
+			<key name="label_search" />
+			<key name="label_job" />
+			<key name="read_more" />
+			<key name="copyrights" />
+		</key>
+    </admin-texts>
+</wpml-config>
+
+

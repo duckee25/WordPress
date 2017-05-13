@@ -1,0 +1,2191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Use-your-Drive\n"
+"POT-Creation-Date: 2015-07-14 12:17+0100\n"
+"PO-Revision-Date: 2015-07-14 12:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin_page.php:119 ../use-your-drive.php:239
+msgid "Settings"
+msgstr "Nastavení"
+
+#: ../admin_page.php:120 ../includes/UseyourDrive_LinkUsers.php:18
+msgid "Link users to folder"
+msgstr "Uživatelské odkaz na složky"
+
+#: ../admin_page.php:121 ../admin_page.php:208
+#: ../templates/tinymce_popup.php:231
+msgid "File browser"
+msgstr "Prohlížeč souborů"
+
+#: ../admin_page.php:144
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemáte dostatečná oprávnění k přístupu na tuto stránku."
+
+#: ../admin_page.php:161
+msgid "Saved!"
+msgstr "Uloženo!"
+
+#: ../admin_page.php:165
+msgid "If you would like to receive updates, please insert your Purchase code"
+msgstr ""
+"Pokud si přejete dostávat aktualizace, prosím vložte svůj Purchase code"
+
+#: ../admin_page.php:167
+msgid "Where do I find the purchase code?"
+msgstr "Kde najdu svůj Purchase code?"
+
+#: ../admin_page.php:172
+msgid "Purchase Code"
+msgstr "Kupní kód"
+
+#: ../admin_page.php:235
+msgid "(Re) Authorize the Plugin!"
+msgstr "(Re) Autorizace Pluginu!"
+
+#: ../admin_page.php:236
+msgid "Revoke authorization"
+msgstr "Zrušení autorizace"
+
+#: ../admin_page.php:263 ../includes/UseyourDrive.php:36
+msgid ""
+"The plugin isn't yet authorized to use your Google Drive! Please (re)-"
+"authorize the plugin"
+msgstr ""
+"Plugin zatím není oprávněn používat Disk Google! Prosím, (re) -authorizujte "
+"plugin"
+
+#: ../admin_page.php:274
+msgid "Plugin isn't linked to your Google Drive anymore... Please Reauthorize!"
+msgstr "Plugin není navázán na Google Drive... Prosím Reauthorizujte!"
+
+#: ../admin_page.php:287
+msgid ""
+"Use-your-Drive can't access your Google Drive as the Google Drive App isn't "
+"properly configurated."
+msgstr ""
+"Use-your-Drive nemůže získat přístup k Disk Google jako Disku Google App "
+"není správně nakonfigurován."
+
+#: ../admin_page.php:291
+msgid ""
+"Use-your-Drive is succesfully authorized and linked with your Google account:"
+msgstr "Use-your-Drive je úspěšně schválen a propojen s vaším účtem Google:"
+
+#: ../admin_page.php:322 ../admin_page.php:378
+msgid "You need at least PHP 5.3 if you want to use Use-your-Drive"
+msgstr "Budete potřebovat alespoň PHP 5.3, chcete-li používat Use-your-Drive"
+
+#: ../admin_page.php:323
+msgid "You are using:"
+msgstr "Používáte:"
+
+#: ../admin_page.php:327
+msgid ""
+"We are not able to connect to the Google API as 'allow_url_fopen' is "
+"disabled and you don't have the cURL PHP extension installed"
+msgstr ""
+"Nejsme schopni se připojit k API Google jako 'allow_url_fopen' je zakázána, "
+"a vy nemáte nainstalovaný rozšíření cURL PHP"
+
+#: ../admin_page.php:328
+msgid "Please enable allow_url_fopen or install the cURL extension"
+msgstr "Prosím, povolte allow_url_fopen nebo instalovat cURL rozšíření"
+
+#: ../admin_page.php:333 ../use-your-drive.php:443
+msgid ""
+"We are not able to connect to the Google API as the plugin is interfering "
+"with an other plugin"
+msgstr ""
+"Nejsme schopni se připojit k API Google jako plugin se ruší s jiným pluginem"
+
+#: ../admin_page.php:334
+msgid ""
+"The other plugin is using an old version of the Google-Api-PHP-client that "
+"isn't capable of running multiple configurations"
+msgstr ""
+"Druhý plugin používá starou verzi Google-API PHP-klient, který není schopen "
+"provozovat více konfigurací"
+
+#: ../admin_page.php:335
+msgid ""
+"Please disable this other plugin if you would like to use Use-your-Drive"
+msgstr "Prosím, zakažte jiný plugin, pokud byste chtěli využít Use-your-Drive"
+
+#: ../admin_page.php:336
+msgid ""
+"If you would like to use both plugins, ask the developer to update it's code"
+msgstr ""
+"Pokud byste chtěli používat oba pluginy, zeptejte se vývojáři aktualizovat, "
+"že je to číslo"
+
+#: ../admin_page.php:348
+msgid "The plugin isn't autorized to use your Google Drive"
+msgstr "Plugin není autorizovaným pro používání s Google Drive"
+
+#: ../admin_page.php:349
+msgid "Authorize the plugin!"
+msgstr "Povolit plugin!"
+
+#: ../admin_page.php:375
+msgid "Plugin version"
+msgstr ""
+
+#: ../admin_page.php:378 ../admin_page.php:380
+msgid "PHP version"
+msgstr "PHP verze"
+
+#: ../admin_page.php:385 ../admin_page.php:387
+msgid "cURL PHP extension"
+msgstr "cURL PHP rozšíření"
+
+#: ../admin_page.php:385
+msgid ""
+"You have the cURL PHP extension installed and we can access Google with cURL"
+msgstr ""
+"Máte nainstalovaný rozšíření cURL PHP a můžeme přistupovat Google s Curl"
+
+#: ../admin_page.php:387
+msgid ""
+"You don't have the cURL PHP extension installed (couldn't find function "
+"\"curl_init\"), please enable or install this extension"
+msgstr ""
+"Nemáte nainstalované rozšíření  cURL PHP (nepodařilo najít funkci "
+"\"curl_init \"), prosím povolte nebo instalaci tohoto rozšíření"
+
+#: ../admin_page.php:392 ../admin_page.php:394
+msgid "Is allow_url_fopen enabled?"
+msgstr "Je allow_url_fopen povoleno?"
+
+#: ../admin_page.php:392
+msgid "Yes, we can access Google with fopen"
+msgstr "Ano, můžeme přistupovat Google s funkcí fopen"
+
+#: ../admin_page.php:394
+msgid "No, we can't access Google with fopen"
+msgstr "Ne, nemůžeme přistupovat Google s funkcí fopen"
+
+#: ../admin_page.php:400 ../admin_page.php:402
+msgid "Version Google Api Client"
+msgstr "Verze Google API Client"
+
+#: ../admin_page.php:402
+msgid "Before version 1.0.0"
+msgstr "Předchozí verze 1.0.0"
+
+#: ../admin_page.php:402
+msgid ""
+"Another plugin is loading an old Google Client library. Use-your-Drive isn't "
+"compatible with this version."
+msgstr ""
+"Další plugin se načítá starý klienta knihovny Google. Use-your-Drive není "
+"kompatibilní s touto verzí."
+
+#: ../admin_page.php:409 ../admin_page.php:411
+msgid "Is TMP directory writable?"
+msgstr "Je TMP adresář zapisovatelný?"
+
+#: ../admin_page.php:409
+msgid "TMP directory"
+msgstr "TMP adresář"
+
+#: ../admin_page.php:409
+msgid "isn't writable. You are not able to upload files to Drive."
+msgstr "není zapisovatelný. Nejste schopni nahrát soubory na disku."
+
+#: ../admin_page.php:409
+msgid "Make sure TMP directory is writable"
+msgstr "Ujistěte se, že adresář TMP je zapisovatelný"
+
+#: ../admin_page.php:411
+msgid "TMP directory is writable"
+msgstr "TMP adresář je zapisovatelný"
+
+#: ../admin_page.php:423 ../admin_page.php:425 ../admin_page.php:428
+msgid "Is CACHE directory writable?"
+msgstr "Jde do CACHE adresáře zapisovat?"
+
+#: ../admin_page.php:423
+msgid "CACHE directory"
+msgstr "CACHE adresář"
+
+#: ../admin_page.php:423 ../admin_page.php:436
+msgid "isn't writable. The gallery will load very slowly."
+msgstr "není zapisovatelný. Galerie se načte velmi pomalu."
+
+#: ../admin_page.php:423
+msgid "Make sure CACHE directory is writable"
+msgstr "Ujistěte se, že se dá do adresáře CACHE zapisovat"
+
+#: ../admin_page.php:425
+msgid "CACHE directory is now writable"
+msgstr "CACHE adresář je nyní zapisovatelný"
+
+#: ../admin_page.php:428
+msgid "CACHE directory is writable"
+msgstr "Do CACHE adresáře lze zapisovat"
+
+#: ../admin_page.php:436 ../admin_page.php:438 ../admin_page.php:441
+msgid "Is CACHE-index file writable?"
+msgstr "Jde do Cache-index zapisovat?"
+
+#: ../admin_page.php:436
+msgid "-index file"
+msgstr "-indexování souborů"
+
+#: ../admin_page.php:436
+msgid "Make sure CACHE-index file is writable"
+msgstr "Ujistěte se, že do souboru CACHE-index se dá zapisovat"
+
+#: ../admin_page.php:438
+msgid "CACHE-index file is now writable"
+msgstr "Do CACHE-index lze nyní zapisovat"
+
+#: ../admin_page.php:441
+msgid "CACHE-index file is writable"
+msgstr "Do CACHE-index zle zapisovat"
+
+#: ../admin_page.php:446
+msgid "You can use the ZIP function"
+msgstr "Můžete použít funkci .zip"
+
+#: ../admin_page.php:447 ../admin_page.php:450
+msgid "Download files as ZIP"
+msgstr "Stáhněte si soubory jako .zip"
+
+#: ../admin_page.php:449
+msgid "You cannot download files as ZIP"
+msgstr "Nemůžete stahovat soubory jako .zip"
+
+#: ../admin_page.php:460
+msgid "You can use Use-your-Drive in Gravity Forms ("
+msgstr ""
+
+#: ../admin_page.php:461 ../admin_page.php:464 ../admin_page.php:468
+msgid "Gravity Forms integration"
+msgstr ""
+
+#: ../admin_page.php:463
+msgid "You have Gravity Forms ("
+msgstr ""
+
+#: ../admin_page.php:467
+msgid "You don't have Gravity Forms installed"
+msgstr ""
+
+#: ../use-your-drive.php:300 ../templates/tinymce_popup.php:102
+msgid "Success"
+msgstr "Úspěch"
+
+#: ../use-your-drive.php:301 ../use-your-drive.php:305
+#: ../templates/tinymce_popup.php:103 ../templates/tinymce_popup.php:106
+msgid "Error"
+msgstr "Chyba"
+
+#: ../use-your-drive.php:302 ../templates/tinymce_popup.php:104
+msgid "In queue"
+msgstr "Ve frontě"
+
+#: ../use-your-drive.php:303
+msgid "Uploading to Server"
+msgstr ""
+
+#: ../use-your-drive.php:304
+msgid "Uploading to Cloud"
+msgstr ""
+
+#: ../use-your-drive.php:306 ../templates/tinymce_popup.php:107
+msgid "Close"
+msgstr "Zavřít"
+
+#: ../use-your-drive.php:307 ../includes/UseyourDrive_Processor.php:423
+#: ../templates/tinymce_popup.php:108
+msgid "Start"
+msgstr "Start"
+
+#: ../use-your-drive.php:308 ../templates/tinymce_popup.php:109
+#: ../templates/tinymce_popup.php:1242 ../templates/tinymce_popup.php:1244
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: ../use-your-drive.php:309 ../includes/UseyourDrive_Filebrowser.php:557
+#: ../includes/UseyourDrive_Gallery.php:298 ../templates/tinymce_popup.php:110
+msgid "Delete"
+msgstr "Smazat"
+
+#: ../use-your-drive.php:310
+msgid "Save"
+msgstr ""
+
+#: ../use-your-drive.php:311 ../templates/tinymce_popup.php:111
+msgid "Create zip file"
+msgstr "Vytvořit soubor .zip"
+
+#: ../use-your-drive.php:312 ../templates/tinymce_popup.php:112
+msgid "Do you really want to delete:"
+msgstr "Opravdu chcete smazat:"
+
+#: ../use-your-drive.php:313
+msgid "Do you really want to delete these files?"
+msgstr "Opravdu chcete smazat tyto soubory?"
+
+#: ../use-your-drive.php:314 ../includes/UseyourDrive_Filebrowser.php:552
+#: ../includes/UseyourDrive_Gallery.php:293 ../templates/tinymce_popup.php:113
+msgid "Rename"
+msgstr "Přejmenovat"
+
+#: ../use-your-drive.php:315 ../templates/tinymce_popup.php:114
+msgid "Rename to:"
+msgstr "Přejmenovat na:"
+
+#: ../use-your-drive.php:316
+msgid "Oops! This shouldn't happen... Try again!"
+msgstr "Jejda! To by se nemělo stát ... Zkuste to znovu!"
+
+#: ../use-your-drive.php:317 ../includes/UseyourDrive_Filebrowser.php:575
+#: ../includes/UseyourDrive_Filebrowser.php:595
+#: ../includes/UseyourDrive_Gallery.php:316
+#: ../includes/UseyourDrive_Gallery.php:318 ../templates/tinymce_popup.php:116
+msgid "Add folder"
+msgstr "Přidat složku"
+
+#: ../use-your-drive.php:318 ../templates/tinymce_popup.php:117
+msgid "New folder"
+msgstr "Nová složka"
+
+#: ../use-your-drive.php:319 ../templates/tinymce_popup.php:118
+msgid "No files found or selected"
+msgstr "No files found or selected"
+
+#: ../use-your-drive.php:320 ../templates/tinymce_popup.php:119
+msgid "Creating zip file"
+msgstr "Vytváření souboru .zip"
+
+#: ../use-your-drive.php:321 ../templates/tinymce_popup.php:120
+msgid "Share file"
+msgstr "Sdílení souboru"
+
+#: ../use-your-drive.php:322 ../templates/tinymce_popup.php:121
+msgid "Creating shared link..."
+msgstr "Vytváření odkazu pro sdílení..."
+
+#: ../use-your-drive.php:323 ../templates/tinymce_popup.php:122
+msgid "Previous"
+msgstr "Předchozí"
+
+#: ../use-your-drive.php:324 ../templates/tinymce_popup.php:123
+msgid "Next"
+msgstr "Další"
+
+#: ../use-your-drive.php:325 ../templates/tinymce_popup.php:124
+msgid "This content failed to load"
+msgstr "Tento obsah se nepodařilo načíst"
+
+#: ../use-your-drive.php:326 ../templates/tinymce_popup.php:125
+msgid "This image failed to load"
+msgstr "Tento obrázek se nepodařilo načíst"
+
+#: ../use-your-drive.php:327 ../templates/tinymce_popup.php:126
+msgid "Start slideshow"
+msgstr "Spustit slideshow"
+
+#: ../use-your-drive.php:328 ../templates/tinymce_popup.php:127
+msgid "Stop slideshow"
+msgstr "Zastavit slideshow"
+
+#: ../use-your-drive.php:329 ../includes/UseyourDrive_LinkUsers.php:79
+msgid "Not yet linked to a folder"
+msgstr "Dosud spojené s složky"
+
+#: ../use-your-drive.php:330 ../includes/UseyourDrive.php:549
+#: ../templates/tinymce_popup.php:128
+msgid "Maximum number of files exceeded"
+msgstr "Maximální počet souborů překročen"
+
+#: ../use-your-drive.php:331 ../templates/tinymce_popup.php:129
+msgid "File type not allowed"
+msgstr "Typ souboru není povolen"
+
+#: ../use-your-drive.php:332 ../templates/tinymce_popup.php:130
+msgid "File is too large"
+msgstr "Soubor je příliš velký"
+
+#: ../use-your-drive.php:333 ../includes/UseyourDrive.php:547
+#: ../templates/tinymce_popup.php:131
+msgid "File is too small"
+msgstr "Soubor je příliš malý"
+
+#: ../use-your-drive.php:334
+msgid "Still Waiting?"
+msgstr ""
+
+#: ../use-your-drive.php:334
+msgid ""
+"If the document doesn't open, you are probably trying to access a protected "
+"file which requires you to be logged in on Google."
+msgstr ""
+
+#: ../use-your-drive.php:334
+msgid "Try to open the file in a new window."
+msgstr ""
+
+#: ../wp-updates-plugin.php:76
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Došlo k neočekávané HTTP Error při požadavku API.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Zkusit znovu</a>"
+
+#: ../wp-updates-plugin.php:80
+msgid "An unknown error occurred"
+msgstr "Došlo k neznámé chybě"
+
+#: ../includes/UseyourDrive.php:12 ../includes/UseyourDrive.php:1647
+msgid "Something went wrong... See settings page"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:149
+msgid "Use-your-Drive authorization"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:158 ../includes/UseyourDrive.php:168
+msgid "Use-your-Drive isn't ready to run"
+msgstr "Use-your-Drive není připraven ke spuštění"
+
+#: ../includes/UseyourDrive.php:172
+msgid "Couldn't connect to Google API: "
+msgstr "Nelze se připojit k Google API:"
+
+#: ../includes/UseyourDrive.php:237
+msgid "Could not start authorization: "
+msgstr "Nelze spustit oprávnění:"
+
+#: ../includes/UseyourDrive.php:260 ../includes/UseyourDrive.php:351
+msgid "Error communicating with Google Drive API: "
+msgstr "Chyba při komunikaci s Google Drive API:"
+
+#: ../includes/UseyourDrive.php:502
+msgid "Root folder not found "
+msgstr "Kořenová složka nebyla nalezena"
+
+#: ../includes/UseyourDrive.php:509 ../includes/UseyourDrive.php:571
+msgid "You are not authorized to upload files to this directory"
+msgstr "Nejste oprávněni vkládat do tohoto adresáře"
+
+#: ../includes/UseyourDrive.php:538
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "Nahrané soubory přesahují upload_max_filesize nastavení v php.ini"
+
+#: ../includes/UseyourDrive.php:539
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Velikost nahraného souboru přesahuje MAX_FILE_SIZE, která byla zadána v "
+"podobě HTML"
+
+#: ../includes/UseyourDrive.php:540
+msgid "The uploaded file was only partially uploaded"
+msgstr "Nahraný soubor byl nahrán jen částečně"
+
+#: ../includes/UseyourDrive.php:541
+msgid "No file was uploaded"
+msgstr "Žádný soubor nebyl nahrán"
+
+#: ../includes/UseyourDrive.php:542
+msgid "Missing a temporary folder"
+msgstr "Chybějící dočasné složky"
+
+#: ../includes/UseyourDrive.php:543
+msgid "Failed to write file to disk"
+msgstr "Nepodařilo se zapsat soubor na disk"
+
+#: ../includes/UseyourDrive.php:544
+msgid "A PHP extension stopped the file upload"
+msgstr "Rozšíření PHP zastavil nahrávání souboru"
+
+#: ../includes/UseyourDrive.php:545
+msgid "The uploaded file exceeds the post_max_size directive in php.ini"
+msgstr "Nahraný soubor přesahuje post_max_size v php.ini"
+
+#: ../includes/UseyourDrive.php:546
+msgid "File is too big"
+msgstr "Soubor je příliš velký"
+
+#: ../includes/UseyourDrive.php:548
+msgid "Filetype not allowed"
+msgstr "Typ souboru není povolen"
+
+#: ../includes/UseyourDrive.php:550
+msgid "Image exceeds maximum width"
+msgstr "Obrázek překročí maximální šířku"
+
+#: ../includes/UseyourDrive.php:551
+msgid "Image requires a minimum width"
+msgstr "Obrázek vyžaduje minimální šířku"
+
+#: ../includes/UseyourDrive.php:552
+msgid "Image exceeds maximum height"
+msgstr "Obrázek překročí maximální výšku"
+
+#: ../includes/UseyourDrive.php:553
+msgid "Image requires a minimum height"
+msgstr "Obrázek vyžaduje minimální výšku"
+
+#: ../includes/UseyourDrive.php:631
+msgid "Not uploaded to Google Drive"
+msgstr "Nenahrál se na Google Drive"
+
+#: ../includes/UseyourDrive.php:643
+msgid "Not succesfully uploaded to Google Drive"
+msgstr "Neúspěšné nahrání na Google Drive"
+
+#: ../includes/UseyourDrive.php:675 ../includes/UseyourDrive.php:677
+msgid "Uploading failed"
+msgstr "Nahrávání se nezdařilo"
+
+#: ../includes/UseyourDrive.php:727 ../includes/UseyourDrive.php:742
+#: ../includes/UseyourDrive.php:790 ../includes/UseyourDrive.php:817
+#: ../includes/UseyourDrive_Processor.php:236
+msgid "Failed to delete entry"
+msgstr "Nepodařilo se smazat záznam"
+
+#: ../includes/UseyourDrive.php:740 ../includes/UseyourDrive.php:861
+#: ../includes/UseyourDrive.php:1024 ../includes/UseyourDrive.php:1105
+msgid "Invalid entry"
+msgstr "Neplatný vstup"
+
+#: ../includes/UseyourDrive.php:754
+msgid "You are not authorized to delete files from this directory"
+msgstr "Nejste oprávněni odstranit soubory z tohoto adresáře"
+
+#: ../includes/UseyourDrive.php:762 ../includes/UseyourDrive.php:767
+msgid "You are not authorized to delete this file or folder"
+msgstr "Nemáte oprávnění smazat tento soubor nebo složku"
+
+#: ../includes/UseyourDrive.php:771
+msgid "You are not authorized to delete folder"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:775
+msgid "You are not authorized to delete this file"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:851
+msgid "No new name set"
+msgstr "Žádné nové jméno nenastavené"
+
+#: ../includes/UseyourDrive.php:863 ../includes/UseyourDrive.php:865
+#: ../includes/UseyourDrive.php:908 ../includes/UseyourDrive_Processor.php:272
+msgid "Failed to rename entry"
+msgstr "Nepodařilo se přejmenovat položku"
+
+#: ../includes/UseyourDrive.php:871
+msgid "You are not authorized to rename files in this directory"
+msgstr "Nejste oprávněni k přejmenování souborů v tomto adresáři"
+
+#: ../includes/UseyourDrive.php:879 ../includes/UseyourDrive.php:884
+msgid "You are not authorized to rename this file or folder"
+msgstr "Nemáte oprávnění přejmenovat tento soubor nebo složku"
+
+#: ../includes/UseyourDrive.php:888
+msgid "You are not authorized to rename folder"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:892
+msgid "You are not authorized to rename this file"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:922 ../includes/UseyourDrive.php:931
+#: ../includes/UseyourDrive.php:1000
+msgid "Failed to move entry"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:936
+msgid "You are not authorized to move items in this directory"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:944 ../includes/UseyourDrive.php:949
+msgid "You are not authorized to move this file or folder"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:953
+msgid "You are not authorized to move folder"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:957
+msgid "You are not authorized to move this file"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:1014
+msgid "No new description set"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:1026 ../includes/UseyourDrive.php:1028
+#: ../includes/UseyourDrive.php:1062
+msgid "Failed to edit entry"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:1034
+msgid "You are not authorized to edit files in this directory"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:1042 ../includes/UseyourDrive.php:1047
+msgid "You are not authorized to edit this file or folder"
+msgstr ""
+
+#: ../includes/UseyourDrive.php:1091 ../includes/UseyourDrive.php:1129
+#: ../includes/UseyourDrive.php:1136 ../includes/UseyourDrive.php:1159
+#: ../includes/UseyourDrive_Processor.php:356
+msgid "Failed to add folder"
+msgstr "Nepodařilo se přidat složku"
+
+#: ../includes/UseyourDrive.php:1095
+msgid "No new foldername set"
+msgstr "Žádné nové jméno složky nenastavené"
+
+#: ../includes/UseyourDrive.php:1107 ../includes/UseyourDrive.php:1109
+msgid "Failed to add entry"
+msgstr "Nepodařilo se přidat záznam"
+
+#: ../includes/UseyourDrive.php:1115
+msgid "You are not authorized to add folders in this directory"
+msgstr "Nemáte oprávnění přidat složky v tomto adresáři"
+
+#: ../includes/UseyourDrive.php:1123
+msgid "You are not authorized to add a folder"
+msgstr "Nemáte oprávnění přidat složku"
+
+#: ../includes/UseyourDrive.php:1204
+msgid "Failed to add user folder"
+msgstr "Nepodařilo se přidat složku uživatele"
+
+#: ../includes/UseyourDrive.php:1608 ../includes/UseyourDrive.php:1615
+msgid "Requested directory isn't allowed"
+msgstr "Požadovaný adresář není povolen"
+
+#: ../includes/UseyourDrive.php:1900 ../includes/UseyourDrive.php:1907
+msgid "Can't create link"
+msgstr "Nelze vytvořit odkaz"
+
+#: ../includes/UseyourDrive_Filebrowser.php:149
+#: ../includes/UseyourDrive_Gallery.php:108
+msgid "Results"
+msgstr "Výledky"
+
+#: ../includes/UseyourDrive_Filebrowser.php:170
+#: ../includes/UseyourDrive_Gallery.php:129
+msgid "Back"
+msgstr "Zpátky"
+
+#: ../includes/UseyourDrive_Filebrowser.php:216
+#: ../includes/UseyourDrive_Filebrowser.php:223
+#: ../includes/UseyourDrive_Gallery.php:98
+msgid "No files or folders found"
+msgstr "Nenalezeny žádné složky ani soubory"
+
+#: ../includes/UseyourDrive_Filebrowser.php:271
+msgid "Select folder"
+msgstr "Vybrat složku"
+
+#: ../includes/UseyourDrive_Filebrowser.php:493
+#: ../includes/UseyourDrive_Gallery.php:261
+msgid "Add a description"
+msgstr ""
+
+#: ../includes/UseyourDrive_Filebrowser.php:493
+#: ../includes/UseyourDrive_Gallery.php:261
+msgid "No description"
+msgstr ""
+
+#: ../includes/UseyourDrive_Filebrowser.php:520
+msgid "Download as"
+msgstr "Stáhnout jako"
+
+#: ../includes/UseyourDrive_Filebrowser.php:528
+msgid "Preview"
+msgstr "Náhled"
+
+#: ../includes/UseyourDrive_Filebrowser.php:534
+msgid "Preview in new window"
+msgstr "Náhled v novém okně"
+
+#: ../includes/UseyourDrive_Filebrowser.php:540
+#: ../includes/UseyourDrive_Gallery.php:281
+msgid "Download file"
+msgstr "Stáhnout soubor"
+
+#: ../includes/UseyourDrive_Filebrowser.php:546
+#: ../includes/UseyourDrive_Gallery.php:287
+msgid "Sharing link"
+msgstr "Odkaz sdílení"
+
+#: ../includes/UseyourDrive_Filebrowser.php:576
+msgid "Add a new folder in this directory"
+msgstr "Přidat novou složku v tomto adresáři"
+
+#: ../includes/UseyourDrive_Filebrowser.php:795
+msgid "Previous folder"
+msgstr "Předchozí složka"
+
+#: ../includes/UseyourDrive_GravityForms.php:118
+msgid "Build your Use-your-Drive shortcode "
+msgstr ""
+
+#: ../includes/UseyourDrive_GravityForms.php:128
+msgid "Use-your-Drive Upload"
+msgstr "Nahrávání Use-your-Drive"
+
+#: ../includes/UseyourDrive_GravityForms.php:134
+msgid "Build here your Use-your-Drive shortcode"
+msgstr ""
+
+#: ../includes/UseyourDrive_GravityForms.php:207
+#, php-format
+msgid "%d file(s) uploaded:"
+msgstr ""
+
+#: ../includes/UseyourDrive_LinkUsers.php:86
+msgid "Link to folder"
+msgstr "Odkaz na složku"
+
+#: ../includes/UseyourDrive_LinkUsers.php:87
+msgid "Remove link"
+msgstr "odstranit odkaz"
+
+#: ../includes/UseyourDrive_Processor.php:244
+msgid "Not all entries could be deleted"
+msgstr "Ne všechny položky mohou být odstraněny"
+
+#: ../includes/UseyourDrive_Processor.php:248
+#: ../includes/UseyourDrive_Processor.php:254
+msgid "Entry was deleted"
+msgstr "Vstup byl smazán"
+
+#: ../includes/UseyourDrive_Processor.php:286
+msgid "Entry was renamed"
+msgstr "Vstup byl přejmenován"
+
+#: ../includes/UseyourDrive_Processor.php:303
+msgid "Failed to move"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:312
+msgid "Entry was moved"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:328
+msgid "Failed to edit description"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:338
+msgid "Description was edited"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:370
+msgid "Folder"
+msgstr "Složka"
+
+#: ../includes/UseyourDrive_Processor.php:370
+msgid "was added"
+msgstr "přidá se"
+
+#: ../includes/UseyourDrive_Processor.php:385
+msgid "no valid AJAX call"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:511
+msgid "Please authorize Use-your-Drive"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:676
+msgid ""
+"To view the Google Drive folders, you need to have JavaScript enabled in "
+"your browser"
+msgstr ""
+"Chcete-li zobrazit složky na Disku Google, musíte mít povolený JavaScript ve "
+"Vašem prohlížeči"
+
+#: ../includes/UseyourDrive_Processor.php:677
+msgid "To do so, please follow these instructions"
+msgstr "Chcete-li tak učinit, postupujte podle následujících pokynů"
+
+#: ../includes/UseyourDrive_Processor.php:688
+msgid "Selected folder"
+msgstr "Vybrané složky"
+
+#: ../includes/UseyourDrive_Processor.php:755
+msgid "Please update your mediaplayer shortcode"
+msgstr "Prosím aktualizujte svou MediaPlayer shortcode"
+
+#: ../includes/UseyourDrive_Processor.php:1004
+#: ../templates/tinymce_popup.php:46
+msgid "Guest"
+msgstr "Host"
+
+#: ../includes/UseyourDrive_Processor.php:1041
+msgid "A guest"
+msgstr "Hodnocení"
+
+#: ../includes/UseyourDrive_Processor.php:1073
+msgid "File downloaded"
+msgstr "Soubor ke stažení"
+
+#: ../includes/UseyourDrive_Processor.php:1075
+msgid "Files downloaded"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:1080
+msgid "New file(s) on Google Drive"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:1086
+msgid "File deleted on Google Drive"
+msgstr ""
+
+#: ../includes/UseyourDrive_Processor.php:1088
+msgid "Files deleted on Google Drive"
+msgstr ""
+
+#: ../skins/clean-jPlayer-skin/player.php:15
+#: ../skins/clean-jPlayer-skin.light/player.php:15
+#: ../skins/default/player.php:9
+msgid "Wait..."
+msgstr "Čekat..."
+
+#: ../skins/clean-jPlayer-skin/player.php:44
+#: ../skins/clean-jPlayer-skin.light/player.php:44
+#: ../skins/default/player.php:56 ../skins/ytube-jPlayer-skin/player.php:51
+#: ../_customizations/custom.dark-with-numbers/player.php:59
+msgid "Update Required"
+msgstr "Povinné aktualizace"
+
+#: ../skins/clean-jPlayer-skin/player.php:45
+#: ../skins/clean-jPlayer-skin.light/player.php:45
+#: ../skins/default/player.php:57 ../skins/ytube-jPlayer-skin/player.php:52
+#: ../_customizations/custom.dark-with-numbers/player.php:60
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your"
+msgstr ""
+"Chcete-li přehrávat média, budete muset buď aktualizujte svůj prohlížeč na "
+"nejnovější verzi, nebo aktualizovat váš"
+
+#: ../skins/default/player.php:10
+msgid "Busy loading playlist"
+msgstr "Zaneprázdněn, načítá se seznam stop"
+
+#: ../templates/admin.php:9
+msgid "Use-your-Drive"
+msgstr ""
+
+#: ../templates/admin.php:37
+msgid "Own Google Drive App"
+msgstr ""
+
+#: ../templates/admin.php:48
+msgid "Google Client ID"
+msgstr ""
+
+#: ../templates/admin.php:56
+msgid "Google Client secret"
+msgstr ""
+
+#: ../templates/admin.php:64
+msgid "Send \"Lost Authorization\" notification to"
+msgstr ""
+
+#: ../templates/admin.php:77
+msgid "Lightbox skin"
+msgstr ""
+
+#: ../templates/admin.php:105
+msgid "Scroll horizontal or vertical in Lightbox"
+msgstr ""
+
+#: ../templates/admin.php:117
+msgid "Source of images in Lightbox"
+msgstr ""
+
+#: ../templates/admin.php:129
+msgid "Media player skin"
+msgstr ""
+
+#: ../templates/admin.php:155
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: ../templates/admin.php:165
+msgid "CSS"
+msgstr ""
+
+#: ../templates/admin.php:179
+msgid "User folder name"
+msgstr ""
+
+#: ../templates/admin.php:187
+msgid "Create user folders on registration"
+msgstr ""
+
+#: ../templates/admin.php:198
+msgid "Create all user folders on first visit"
+msgstr ""
+
+#: ../templates/admin.php:209
+msgid "Update user folders after profile update"
+msgstr ""
+
+#: ../templates/admin.php:220
+msgid "Remove user folders after deletion"
+msgstr ""
+
+#: ../templates/admin.php:236
+msgid "Sharing Permissions"
+msgstr ""
+
+#: ../templates/admin.php:248
+msgid "Manage Permissions"
+msgstr ""
+
+#: ../templates/admin.php:260
+msgid "Your Google Apps Domain"
+msgstr ""
+
+#: ../templates/admin.php:269
+msgid "Gzip compression"
+msgstr ""
+
+#: ../templates/admin.php:281
+msgid "Enable Gzip compression"
+msgstr ""
+
+#: ../templates/admin.php:297
+msgid "Template download"
+msgstr ""
+
+#: ../templates/admin.php:305
+msgid "Template upload"
+msgstr ""
+
+#: ../templates/admin.php:313
+msgid "Template deletion"
+msgstr ""
+
+#: ../templates/admin.php:321
+msgid "Template File line in %filelist%"
+msgstr ""
+
+#: ../templates/admin.php:334
+msgid "Statistics"
+msgstr ""
+
+#: ../templates/admin.php:345
+msgid "Enable Google Analytics"
+msgstr ""
+
+#: ../templates/admin.php:362
+msgid "Auto-updater"
+msgstr ""
+
+#: ../templates/admin.php:372
+msgid "Purchase code"
+msgstr ""
+
+#: ../templates/admin.php:387
+msgid "System information"
+msgstr "Systémové informace"
+
+#: ../templates/admin.php:402
+msgid "Support & Documentation"
+msgstr ""
+
+#: ../templates/admin.php:405
+msgid "Visit the Use-your-Drive website"
+msgstr "Navštivte stránky Use-your-Drive"
+
+#: ../templates/admin.php:405
+msgid "for documentation and installation details"
+msgstr "Dokumentace a instalační informace"
+
+#: ../templates/admin.php:406
+msgid "Discovered a bug or just need some help with the plugin?"
+msgstr ""
+
+#: ../templates/admin.php:406
+msgid "Visit the support page"
+msgstr ""
+
+#: ../templates/frontend.php:9 ../templates/gallery.php:9
+msgid "Back to our first folder"
+msgstr "Zpět do vaší první složky"
+
+#: ../templates/frontend.php:13 ../templates/gallery.php:16
+msgid "Refresh"
+msgstr "Znovu načíst"
+
+#: ../templates/frontend.php:17 ../templates/gallery.php:26
+msgid "Options"
+msgstr "Nastavení"
+
+#: ../templates/frontend.php:22 ../templates/frontend.php:23
+msgid "View as grid"
+msgstr "Zobrazit jako mřížku"
+
+#: ../templates/frontend.php:26 ../templates/frontend.php:27
+msgid "View as list"
+msgstr "Zobrazit jako seznam"
+
+#: ../templates/frontend.php:33 ../templates/gallery.php:34
+msgid "Upload files"
+msgstr "Nahrát soubory"
+
+#: ../templates/frontend.php:39 ../templates/gallery.php:40
+msgid "Download all files"
+msgstr "Stáhnout všechny soubory"
+
+#: ../templates/frontend.php:40 ../templates/gallery.php:41
+msgid "Download selected files"
+msgstr "Stáhnout vybrané soubory"
+
+#: ../templates/frontend.php:45 ../templates/gallery.php:46
+msgid "Delete selected files"
+msgstr "Odstranit vybrané soubory"
+
+#: ../templates/frontend.php:49 ../templates/gallery.php:50
+msgid "No options..."
+msgstr "Žádné možnosti..."
+
+#: ../templates/frontend.php:63 ../templates/gallery.php:63
+msgid "Search filenames"
+msgstr "Hledat názvy souborů"
+
+#: ../templates/frontend.php:63 ../templates/gallery.php:63
+msgid "and within contents"
+msgstr "a v rámci obsahu"
+
+#: ../templates/frontend.php:67 ../templates/gallery.php:67
+#: ../_customizations/custom.dark-with-numbers/player.php:48
+msgid "Loading..."
+msgstr "Načítání..."
+
+#: ../templates/frontend.php:86 ../templates/tinymce_popup.php:727
+msgid "Size"
+msgstr "Velikost"
+
+#: ../templates/frontend.php:92 ../templates/tinymce_popup.php:730
+msgid "Date modified"
+msgstr "Datum změny"
+
+#: ../templates/frontend.php:96 ../templates/tinymce_popup.php:724
+msgid "Name"
+msgstr "Jméno"
+
+#: ../templates/noaccess.php:4
+msgid "Your account doesn't have the right permissions to use this"
+msgstr "Váš účet nemá správná oprávnění k použití této"
+
+#: ../templates/noaccess.php:4
+msgid "Contact the webmaster if you would like to have access"
+msgstr "Obraťte se na správce, pokud chcete mít přístup"
+
+#: ../templates/tinymce_popup.php:105
+msgid "Uploading"
+msgstr "Nahrávání"
+
+#: ../templates/tinymce_popup.php:115
+msgid "Can't receive filelist"
+msgstr "Nelze zjistit seznam souborů"
+
+#: ../templates/tinymce_popup.php:143 ../templates/tinymce_popup.php:152
+msgid "Create Shortcode"
+msgstr "Vytvořit shorcode"
+
+#: ../templates/tinymce_popup.php:146
+msgid "Insert direct links to files or folders"
+msgstr "Vložte přímé odkazy na soubory nebo složky"
+
+#: ../templates/tinymce_popup.php:149
+msgid "Embed files"
+msgstr "Vložit soubory"
+
+#: ../templates/tinymce_popup.php:172
+msgid "Loading Shortcode Generator"
+msgstr "Načítá se Shortcode Generator"
+
+#: ../templates/tinymce_popup.php:182
+msgid "Please note that the embedded files need to be public (with link)"
+msgstr ""
+"Vezměte prosím na vědomí, že vložené soubory musí být veřejné (s odkazem)"
+
+#: ../templates/tinymce_popup.php:225
+msgid "Use plugin as"
+msgstr "Použití pluginu jako"
+
+#: ../templates/tinymce_popup.php:235
+msgid "Photo gallery"
+msgstr "Fotogalerie"
+
+#: ../templates/tinymce_popup.php:238
+msgid "Audio player"
+msgstr "Audio přehrávač"
+
+#: ../templates/tinymce_popup.php:241
+msgid "Video player"
+msgstr "Video přehrávač"
+
+#: ../templates/tinymce_popup.php:248
+msgid "Select root folder"
+msgstr "Vyberte kořenovou složku"
+
+#: ../templates/tinymce_popup.php:283
+msgid "You are using User-Linked user folders. You can't select a root folder."
+msgstr "Používáte složek Uživatel propojených. Nelze vybrat kořenový adresář."
+
+#: ../templates/tinymce_popup.php:292
+msgid "User folders"
+msgstr "Uživatelské složky"
+
+#: ../templates/tinymce_popup.php:296
+msgid "User folders can be useful in some situations, for example"
+msgstr "Uživatelské složky mohou být užitečné v některých situacích, například"
+
+#: ../templates/tinymce_popup.php:298
+msgid ""
+"Each user should only be able to access their own files in their own folder"
+msgstr ""
+"Každý uživatel by měl mít přístup k vlastní soubory do vlastní složky pouze"
+
+#: ../templates/tinymce_popup.php:299
+msgid "Users and guests on your site want to upload files to their own folder"
+msgstr "Uživatelé a hosté na vašem webu chcete vkládat své vlastní složky"
+
+#: ../templates/tinymce_popup.php:300
+msgid ""
+"Your clients should get their own personal folder if they register, already "
+"filled with some files from template folder"
+msgstr ""
+"Vaši klienti by měli dostat vlastní osobní složku, pokud se zaregistrují, "
+"již naplněný některé soubory ze složky šablon"
+
+#: ../templates/tinymce_popup.php:302
+msgid ""
+"You can use the plugin in two ways to create folders that are linked to the "
+"users"
+msgstr ""
+"Můžete použít plugin dvěma způsoby, jak vytvářet složky, které jsou spojené "
+"s uživateli"
+
+#: ../templates/tinymce_popup.php:303
+msgid ""
+"You can let the plugin automatically create user folders in the, by you "
+"selected, root folder"
+msgstr ""
+"Můžete nechat plugin automaticky vytvářet uživatelské složky v, o kterou "
+"jste vybrali, kořenové složce"
+
+#: ../templates/tinymce_popup.php:304
+msgid ""
+"Or you can link each user to their own folder via the plugin settings menu"
+msgstr ""
+"Nebo můžete propojit každý uživatel své vlastní složky v menu nastavení "
+"plugin"
+
+#: ../templates/tinymce_popup.php:305
+msgid "here"
+msgstr "tady"
+
+#: ../templates/tinymce_popup.php:311
+msgid "Use user specific folders"
+msgstr "Použít specifické složky uživatelů"
+
+#: ../templates/tinymce_popup.php:312
+msgid ""
+"Let users only browser through the their own folder (automatically or were "
+"you have linked them to)"
+msgstr ""
+"Ať pouze uživatelé prohlížeče přes své vlastní složky (automaticky, nebo "
+"jste si je spojena s)"
+
+#: ../templates/tinymce_popup.php:322
+msgid "Method"
+msgstr "metoda"
+
+#: ../templates/tinymce_popup.php:323
+msgid "Select the method that should be used"
+msgstr "Vyberte si způsob, který by měl být použit"
+
+#: ../templates/tinymce_popup.php:324
+msgid ""
+"Use the user-folder link that you have created via the plugin settings menu"
+msgstr ""
+"Použijte odkaz uživatelské složky, které jste vytvořili pomocí menu "
+"nastavení plugin"
+
+#: ../templates/tinymce_popup.php:325
+msgid "Or let the plugin automatically create the user folders"
+msgstr "Nebo ať plugin automaticky vytvořit uživatelské složky"
+
+#: ../templates/tinymce_popup.php:334
+msgid "Use my own created User-Folder link"
+msgstr "Použít vlastní vytvořený odkaz na uživatelské složky"
+
+#: ../templates/tinymce_popup.php:337
+msgid "Automatically create the user folders"
+msgstr "Automaticky vytvořit uživatelské složky"
+
+#: ../templates/tinymce_popup.php:340
+msgid "By default guests (not logged in users) will also get their own folder"
+msgstr "Standardně host (nepřihlášen uživatelů) dostane svou vlastní složku"
+
+#: ../templates/tinymce_popup.php:341
+msgid ""
+"Remove 'Guest' from View Roles on the 'User Permissions' tab to prevent "
+"guests to use the plugin"
+msgstr ""
+"Odstranit 'Guest' z pohledu rolí na kartě 'User Permissions' , aby se "
+"zabránilo hostům využívat plugin"
+
+#: ../templates/tinymce_popup.php:348
+msgid "Use a template folder"
+msgstr "Použijte složku šablony"
+
+#: ../templates/tinymce_popup.php:349
+msgid ""
+"If you would like to create the user folders based on another folder. The "
+"content of the template folder will be copied to the user folder"
+msgstr ""
+"Chcete-li vytvořit uživatelské složky na základě jiné složky. Obsah složky, "
+"kterou budou zkopírovány do složky uživatele"
+
+#: ../templates/tinymce_popup.php:358
+msgid "Template folder"
+msgstr "Složka šablony"
+
+#: ../templates/tinymce_popup.php:359
+msgid "Select the template folder"
+msgstr "Vyberte složku šablony"
+
+#: ../templates/tinymce_popup.php:394
+msgid "Who can access all user folders"
+msgstr "Kdo může přistupovat ke všem uživatelským složkám"
+
+#: ../templates/tinymce_popup.php:395
+msgid ""
+"Select which WordPress Roles can browse through all folders and access all "
+"files"
+msgstr ""
+"Vyberte, které Role WordPress můžete procházet všechny složky a přístup ke "
+"všem souborů"
+
+#: ../templates/tinymce_popup.php:412
+msgid "Media Files"
+msgstr "Media soubory"
+
+#: ../templates/tinymce_popup.php:416
+msgid ""
+"The mediaplayer will decided, based on the provided formats, if the user "
+"will have a HTML5 player or a Flash Player"
+msgstr ""
+"Media player bude rozhodnuto na základě poskytnutých formátech, v případě, "
+"že uživatel bude mít HTML5 přehrávač nebo Flash Player"
+
+#: ../templates/tinymce_popup.php:416
+msgid ""
+"You may provide the same file with different extensions to increase cross-"
+"browser support"
+msgstr ""
+"Můžete poskytnout stejný soubor s různými příponami, aby zvýšila podporu "
+"cross-browser"
+
+#: ../templates/tinymce_popup.php:416
+msgid ""
+"Do always supply a mp3 (audio) or m4v/mp4 (video)file to support all browsers"
+msgstr ""
+"Vždy dodat MP3 (audio) nebo m4v / MP4 (video), soubor, který chcete "
+"podporovat všechny prohlížeče"
+
+#: ../templates/tinymce_popup.php:422 ../templates/tinymce_popup.php:440
+msgid "Provided formats"
+msgstr "Podporované formáty"
+
+#: ../templates/tinymce_popup.php:423 ../templates/tinymce_popup.php:441
+msgid "Select which sort of media files you will provide"
+msgstr "Vyberte jaký typ multimediální soubory, které bude poskytovat"
+
+#: ../templates/tinymce_popup.php:458
+msgid "Automatically start playing"
+msgstr "Automaticky spustí přehrávání"
+
+#: ../templates/tinymce_popup.php:459
+msgid "Autoplay - Automatically start playing"
+msgstr "Automatické přehrávání - Automatické spuštění přehrávání"
+
+#: ../templates/tinymce_popup.php:469
+msgid "Allow download"
+msgstr "Povolit stažení"
+
+#: ../templates/tinymce_popup.php:470
+msgid "Show direct download link to media file in the playlist"
+msgstr "Zobrazit přímý odkaz ke stažení souboru médií v playlistu"
+
+#: ../templates/tinymce_popup.php:480
+msgid "Allow purchase"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:481
+msgid "Show link to webshop in the playlist"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:491
+msgid "Link to webshop"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:492
+msgid "Insert link to your webshop here"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:504
+msgid "Container width"
+msgstr "Šířka zobrazení"
+
+#: ../templates/tinymce_popup.php:505
+msgid "Set max width for the Use-your-Drive container"
+msgstr "Nastavení maximální šířky zásobníku Use-your-Drive"
+
+#: ../templates/tinymce_popup.php:505 ../templates/tinymce_popup.php:514
+msgid "You can use pixels or percentages, eg '360px', '480px', '70%'"
+msgstr "Můžete použít pixely nebo procenta, například '360px', '480px', '70%'"
+
+#: ../templates/tinymce_popup.php:505 ../templates/tinymce_popup.php:514
+#: ../templates/tinymce_popup.php:702
+msgid "Leave empty for default value"
+msgstr "Nechte prázdné pro výchozí hodnotu"
+
+#: ../templates/tinymce_popup.php:513
+msgid "Container height"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:514
+msgid "Set max height for the Use-your-Drive container"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:522
+msgid "Hide playlist on start"
+msgstr "Skrýt playlist po začátku"
+
+#: ../templates/tinymce_popup.php:523
+msgid "Would you like to hide the playlist"
+msgstr "Chcete skrýt playlist"
+
+#: ../templates/tinymce_popup.php:534
+msgid "Album or audio file covers"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:537
+msgid "You can show covers of your audio files in the Audio Player"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:537
+msgid ""
+"Add a *.png or *.jpg file with the same name as your audio file in the same "
+"folder as your audio files. You can also add a cover with the name of the "
+"folder to show the cover for all audio files in the album"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:537
+msgid "If no cover is available, a placeholder will be used"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:543
+msgid "Display covers"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:544
+msgid ""
+"Do you have covers (*.png, *.jpg) available and should they be displayed?"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:554
+msgid "Display files and folders"
+msgstr "Zobrazení souborů a složek"
+
+#: ../templates/tinymce_popup.php:555
+msgid ""
+"How do you want to display the files and folders? With or without thumbnails"
+msgstr "Jak chcete zobrazit soubory a složky? S nebo bez náhledů"
+
+#: ../templates/tinymce_popup.php:563
+msgid "with thumbnails in a grid"
+msgstr "s obrázky v mřížce"
+
+#: ../templates/tinymce_popup.php:566
+msgid "In a file list"
+msgstr "V seznamu souborů"
+
+#: ../templates/tinymce_popup.php:573
+msgid "Display breadcrumb"
+msgstr "Zobrazit lištu aktuální pozice"
+
+#: ../templates/tinymce_popup.php:574
+msgid "Do you want to display a breadcrumb in the file browser?"
+msgstr "Chcete zobrazit lištu aktuální pozice v prohlížeči souborů?"
+
+#: ../templates/tinymce_popup.php:584
+msgid "Root breadcrumb title"
+msgstr "Root lišta aktuální pozice"
+
+#: ../templates/tinymce_popup.php:585
+msgid ""
+"What should be the breadcrumb title of the root folder? Leave empty for "
+"default value."
+msgstr ""
+"Jaký by měl být název strouhanka kořenové složky? Ponechte prázdné pro "
+"výchozí hodnotu."
+
+#: ../templates/tinymce_popup.php:594
+msgid "Display columnnames"
+msgstr "Zobrazované názvy sloupců"
+
+#: ../templates/tinymce_popup.php:595
+msgid "Do you want to display the columnnames of the date and filesize?"
+msgstr "Chcete zobrazit názvy sloupců na datum a velikost souboru?"
+
+#: ../templates/tinymce_popup.php:605
+msgid "Display refresh button"
+msgstr "Zobrazit tlačítko znovunačtení"
+
+#: ../templates/tinymce_popup.php:606
+msgid ""
+"Do you want to display a refresh button so users can update the file list "
+"and refresh the cache?"
+msgstr ""
+"Chcete zobrazit tlačítko Aktualizovat, aby si uživatel mohl aktualizovat "
+"seznam souborů a aktualizovat mezipamět?"
+
+#: ../templates/tinymce_popup.php:616
+msgid "Display files in folder"
+msgstr "Zobrazení souborů ve složce"
+
+#: ../templates/tinymce_popup.php:617
+msgid ""
+"Do you want to display files in the folder so the user can preview and "
+"download them?"
+msgstr ""
+"Chcete zobrazit soubory ve složce, aby si je mohl uživatel prohlédnout a "
+"stáhnout?"
+
+#: ../templates/tinymce_popup.php:627
+msgid "Display child folders in folder"
+msgstr "Display dětské složky ve složce"
+
+#: ../templates/tinymce_popup.php:628
+msgid "Do you want to display the child folders in the selected root folder?"
+msgstr "Chcete-li zobrazit podřízené složky ve vybrané kořenové složce?"
+
+#: ../templates/tinymce_popup.php:638
+msgid "Display file size"
+msgstr "Zobrazit velikost soubory"
+
+#: ../templates/tinymce_popup.php:639
+msgid "Do you want to display a column with the file size?"
+msgstr "Chcete zobrazit sloupec s velikostí souboru?"
+
+#: ../templates/tinymce_popup.php:649
+msgid "Display date last modified"
+msgstr "Zobrazení data poslední změny"
+
+#: ../templates/tinymce_popup.php:650
+msgid "Do you want to display a column with the last modified date?"
+msgstr "Chcete zobrazit sloupec s datum poslední změny?"
+
+#: ../templates/tinymce_popup.php:660
+msgid "Display file extension"
+msgstr "Rozšíření zobrazení souboru"
+
+#: ../templates/tinymce_popup.php:661
+msgid "Do you want to display the file extensions (.pdf, .txt)?"
+msgstr "Chcete zobrazit přípony souborů (.pdf, .txt)?"
+
+#: ../templates/tinymce_popup.php:672
+msgid "Slideshow in Lightbox"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:673
+msgid "Do you want to enable the slideshow in the lightbox"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:673 ../templates/tinymce_popup.php:693
+msgid "Set to 0 to load all images at once"
+msgstr "Nastavte na 0 pro načtení všech snímků najednou"
+
+#: ../templates/tinymce_popup.php:683
+msgid "Delay between cycles (ms)"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:684
+msgid "Delay between cycles in milliseconds, the default is 5000"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:692
+msgid "Number of images"
+msgstr "Počet snímků"
+
+#: ../templates/tinymce_popup.php:693
+msgid "Number of images to be loaded each time"
+msgstr "Počet snímků k načtení pokaždé"
+
+#: ../templates/tinymce_popup.php:701
+msgid "Gallery row height"
+msgstr "Výška řádku galerie"
+
+#: ../templates/tinymce_popup.php:702
+msgid "The ideal height you want your grid rows to be"
+msgstr "Ideální výška chcete, aby vaše mřížka řádky být"
+
+#: ../templates/tinymce_popup.php:702
+msgid ""
+"It won't set it exactly to this as plugin adjusts the row height to get the "
+"correct width"
+msgstr ""
+"Nebude-li to nastavené přesně tak to plugin upraví na správnou výšku a šířku "
+"sám"
+
+#: ../templates/tinymce_popup.php:715
+msgid "Sort by"
+msgstr "Seřadit podle"
+
+#: ../templates/tinymce_popup.php:716
+msgid "Sort files and folders by their properties"
+msgstr "Seřadit soubory a složky podle jejich vlastností"
+
+#: ../templates/tinymce_popup.php:733
+msgid "Shuffle/Random"
+msgstr "Přeházeně/Náhodně"
+
+#: ../templates/tinymce_popup.php:740
+msgid "Sort order"
+msgstr "Řazení"
+
+#: ../templates/tinymce_popup.php:741
+msgid "Sort order: ascending or descending"
+msgstr "Řazení: vzestupně nebo sestupně"
+
+#: ../templates/tinymce_popup.php:749
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: ../templates/tinymce_popup.php:752
+msgid "Descending"
+msgstr "Sestupně"
+
+#: ../templates/tinymce_popup.php:762
+msgid "Enable search"
+msgstr "Povolit hledání"
+
+#: ../templates/tinymce_popup.php:763
+msgid "Should users be able to use the search function"
+msgstr "Pokud uživatelé budou moci použít funkci vyhledávání"
+
+#: ../templates/tinymce_popup.php:773
+msgid "Search for"
+msgstr "Hledat v"
+
+#: ../templates/tinymce_popup.php:774
+msgid "Should users be able to search in the content?"
+msgstr "Měli by mít uživatelé možnost vyhledávat v obsahu?"
+
+#: ../templates/tinymce_popup.php:782
+msgid "Search only on filename"
+msgstr "Hledat pouze v názvu souboru"
+
+#: ../templates/tinymce_popup.php:785
+msgid "Search on filename and contents"
+msgstr "Vyhledávání v názvech souborů a obsahu"
+
+#: ../templates/tinymce_popup.php:792
+msgid "Search from selected root"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:793
+msgid ""
+"Search only in the current folder or search from the selected root folder  "
+msgstr ""
+
+#: ../templates/tinymce_popup.php:803
+msgid "Enable link sharing"
+msgstr "Povolit sdílení odkazů"
+
+#: ../templates/tinymce_popup.php:804
+msgid "Should users be able to generate permanent direct links to the files?"
+msgstr "Měli by být schopni uživatelé vytvořit trvalé přímé odkazy na soubory?"
+
+#: ../templates/tinymce_popup.php:814
+msgid "Open preview inline"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:815
+msgid ""
+"Do you want to open the preview in an inline popup or should it open in a "
+"new window"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:825
+msgid "Force a 'Save as'"
+msgstr "Vynutit 'Save as'"
+
+#: ../templates/tinymce_popup.php:826
+msgid "Force a 'Save as' Dialog on downloading file"
+msgstr "Vynutit 'Save as' Dialog u stahování souboru"
+
+#: ../templates/tinymce_popup.php:836
+msgid "Enable ZIP-download"
+msgstr "Povolit .zip ke stažení"
+
+#: ../templates/tinymce_popup.php:837
+msgid "Should users be able to use download multiple files as zip?"
+msgstr ""
+"Měli by mít uživatelé možnost využívat stahování více souborů jako zip?"
+
+#: ../templates/tinymce_popup.php:851
+msgid "Show only files with these extensions"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:852 ../templates/tinymce_popup.php:870
+#: ../templates/tinymce_popup.php:904
+msgid "Add extensions separated with | e.g. (jpg|png|gif)"
+msgstr "Přidat rozšíření oddělených | např. (jpg|png|gif)"
+
+#: ../templates/tinymce_popup.php:852 ../templates/tinymce_popup.php:870
+msgid "Leave empty to show all files"
+msgstr "Nechte prázdné pro zobrazení všech souborů"
+
+#: ../templates/tinymce_popup.php:860
+msgid "Show only these files and folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:861 ../templates/tinymce_popup.php:879
+msgid "Add files or folders separated with | e.g. (file1.jpg|long folder name)"
+msgstr ""
+"Přidat soubory nebo složky oddělených | např. (soubor 1.jpg | název dlouhý "
+"složky)"
+
+#: ../templates/tinymce_popup.php:869
+msgid "Hide files with these extensions"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:878
+msgid "Hide these files and folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:892
+msgid "Include upload form"
+msgstr "Zahrnout formulář pro nahrávání"
+
+#: ../templates/tinymce_popup.php:893
+msgid ""
+"Should users be able to upload files? You can manage the permissions under "
+"'User Permissions'"
+msgstr ""
+"Měli by mít uživatelé schopni nahrát soubory? Můžete spravovat oprávnění v "
+"rámci 'User Permissions'"
+
+#: ../templates/tinymce_popup.php:903
+msgid "Limit upload by extension"
+msgstr "Limit odesílání pomocí rozšíření"
+
+#: ../templates/tinymce_popup.php:904
+msgid "Leave empty for no restricion"
+msgstr "Nechte prázdné pro neomezené"
+
+#: ../templates/tinymce_popup.php:913
+msgid "Max. upload size"
+msgstr "Maximální velikost nahrávaných souborů"
+
+#: ../templates/tinymce_popup.php:914
+msgid "Max filesize for uploading in bytes"
+msgstr "Max velikost souboru pro nahrání v bytech"
+
+#: ../templates/tinymce_popup.php:914
+msgid "Leave empty for server maximum "
+msgstr "Ponechte prázdné maximálně  pro server"
+
+#: ../templates/tinymce_popup.php:914
+msgid "How to calculate?"
+msgstr "Jak vypočítat?"
+
+#: ../templates/tinymce_popup.php:922
+msgid "Convert to Google Docs"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:923
+msgid "Try to convert files to Google Documents"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:938
+msgid "Download notification"
+msgstr "stažení oznámení"
+
+#: ../templates/tinymce_popup.php:939
+msgid ""
+"Would you like to receive a notification email when someone downloads a file?"
+msgstr "Přejete si dostávat e-mailem oznámení, když někdo stáhne soubor?"
+
+#: ../templates/tinymce_popup.php:949
+msgid "Upload notification"
+msgstr "Nahrát oznámení"
+
+#: ../templates/tinymce_popup.php:950
+msgid ""
+"Would you like to receive a notification email when someone uploads a file?"
+msgstr "Přejete si dostávat e-mailem oznámení, když někdo nahraje soubor?"
+
+#: ../templates/tinymce_popup.php:960
+msgid "Delete notification"
+msgstr "Smazat oznámení"
+
+#: ../templates/tinymce_popup.php:961
+msgid ""
+"Would you like to receive a notification email when someone deletes a file?"
+msgstr "Přejete si dostávat e-mailem oznámení, když někdo smaže soubor?"
+
+#: ../templates/tinymce_popup.php:971
+msgid "Send notification to"
+msgstr "Odeslat oznámení"
+
+#: ../templates/tinymce_popup.php:972
+msgid ""
+"On which email address would you like to receive the notification? You can "
+"use %admin_email% and %user_email%."
+msgstr ""
+
+#: ../templates/tinymce_popup.php:972
+msgid "Default value is:"
+msgstr "Výchozí hodnota je:"
+
+#: ../templates/tinymce_popup.php:985
+msgid "File Manipulation"
+msgstr "Manipulace se soubory"
+
+#: ../templates/tinymce_popup.php:989
+msgid ""
+"Use-your-Drive uses Wordpress Roles to determine how an user can use the "
+"plugin"
+msgstr ""
+"Use-your-Drive využívá rolí Wordpressu, jak může uživatel použít plugin"
+
+#: ../templates/tinymce_popup.php:990
+msgid "You set these under 'User Permissions'"
+msgstr "Můžete nastavit tyto v rámci 'User Permissions'"
+
+#: ../templates/tinymce_popup.php:996
+msgid "Edit descriptions"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:997
+msgid "Should it be possible to edit descriptions?"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1007
+msgid "Rename files and folders"
+msgstr "Přejmenování souborů a složek"
+
+#: ../templates/tinymce_popup.php:1008
+msgid "Should it be possible to rename files and folders?"
+msgstr "Mělo by být možné přejmenovat soubory a složky?"
+
+#: ../templates/tinymce_popup.php:1018
+msgid "Move files and folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1019
+msgid "Should it be possible to move files and folders?"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1029
+msgid "Delete files and folders"
+msgstr "Odstranit soubory a složky"
+
+#: ../templates/tinymce_popup.php:1030
+msgid "Should it be possible to delete files and folders?"
+msgstr "Mělo by být možné odstranit soubory a složky?"
+
+#: ../templates/tinymce_popup.php:1040
+msgid "Delete to trash"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1041
+msgid "Should the files be deleted permanently or moved to the trash bin?"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1052
+msgid "Create new folders"
+msgstr "Vytvoření nové složky"
+
+#: ../templates/tinymce_popup.php:1053
+msgid "Should it be possible to create new folders?"
+msgstr "Mělo by být možné vytvářet nové složky?"
+
+#: ../templates/tinymce_popup.php:1066
+msgid "Who can view"
+msgstr "Kdo se může zobrazit"
+
+#: ../templates/tinymce_popup.php:1067
+msgid "Select which WordPress Roles can view and use the plugin"
+msgstr "Vyberte, které role WordPress můžou zobrazit a používat plugin"
+
+#: ../templates/tinymce_popup.php:1080
+msgid "Who can download"
+msgstr "Kdo si můžete stáhnout"
+
+#: ../templates/tinymce_popup.php:1081
+msgid "Select which WordPress Roles can download files"
+msgstr "Vyberte, které role WordPress můžetou stáhnout naše soubory"
+
+#: ../templates/tinymce_popup.php:1095
+msgid "Who can upload"
+msgstr "Kdo může nahrát"
+
+#: ../templates/tinymce_popup.php:1096
+msgid "Select which WordPress Roles can upload files"
+msgstr "Vyberte, které role WordPress mohou vkládat"
+
+#: ../templates/tinymce_popup.php:1109
+msgid "Who can edit descriptions"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1110
+msgid "Select which WordPress Roles can edit descriptions"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1123
+msgid "Who can rename files"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1124
+msgid "Select which WordPress Roles can rename files"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1137
+msgid "Who can rename folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1138
+msgid "Select which WordPress Roles can rename folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1151
+msgid "Who can move files"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1152
+msgid "Select which WordPress Roles can move files"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1165
+msgid "Who can move folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1166
+msgid "Select which WordPress Roles can move folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1179
+msgid "Who can delete files"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1180
+msgid "Select which WordPress Roles can delete files"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1193
+msgid "Who can delete folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1194
+msgid "Select which WordPress Roles can delete folders"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1207
+msgid "Who can create new folders"
+msgstr "Kdo může vytvářet nové složky"
+
+#: ../templates/tinymce_popup.php:1208
+msgid "Select which WordPress Roles can create new folders"
+msgstr "Vyberte, které role WordPress můžou vytvořit nové složky"
+
+#: ../templates/tinymce_popup.php:1231 ../templates/tinymce_popup.php:1237
+msgid "Insert"
+msgstr "Vložit"
+
+#: ../templates/tinymce_popup.php:1233
+msgid "Insert links"
+msgstr "Vložit odkazy"
+
+#: ../templates/tinymce_popup.php:1235
+msgid "Embed"
+msgstr "Vložit"
+
+#: ../templates/uploadform.php:9
+msgid "Drag your files here"
+msgstr ""
+
+#: ../templates/uploadform.php:23
+msgid "... or find documents on your device"
+msgstr ""
+
+#: ../templates/uploadform.php:25
+msgid "Add files"
+msgstr "Přidat soubory"
+
+#: ../templates/uploadform.php:41
+msgid "Upload folder"
+msgstr ""
+
+#: ../templates/uploadform.php:65
+msgid "Max file size: "
+msgstr ""
+
+#: ../templates/uploadform.php:68
+msgid "Allowed formats: "
+msgstr ""
+
+#~ msgid "Advanced settings"
+#~ msgstr "Advanced settings"
+
+#~ msgid "Notify email templates"
+#~ msgstr "Upozornění na e-mailové šablony"
+
+#~ msgid ""
+#~ "If you created your own Google Drive App, please enter your settings below"
+#~ msgstr ""
+#~ "Pokud jste vytvořili svůj vlastní Disku Google App, prosím, zadejte "
+#~ "nastavení níže"
+
+#~ msgid "How do I create a Google DriveApp?"
+#~ msgstr "Jak mohu vytvořit Google Drive App?"
+
+#~ msgid ""
+#~ "Would you like to see some statistics about your files? Use-your-Drive "
+#~ "can send all preview/download/upload events to Google Analytics"
+#~ msgstr ""
+#~ "Chtěli byste se podívat na nějaké statistiky o souborech? Use-your-Drive "
+#~ "dokáže odesílat všechny zobrazení / stažení / nahrání do Google Analytics"
+
+#~ msgid ""
+#~ "If you enable this feature, please make sure you already added your "
+#~ "Google Analytics web tracking code to your site."
+#~ msgstr ""
+#~ "Pokud povolíte tuto funkci, ujistěte se prosím, že jste již přidali "
+#~ "Google Analytics web sledovací kód na vaše stránky."
+
+#~ msgid "You can use"
+#~ msgstr "Můžete použít"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Use-your-Drive uses the following shortcode:"
+#~ msgstr "Use-your-Drive používá shortcode:"
+
+#~ msgid ""
+#~ "To make things easier for you, we added a <u>Shortcode button</u> in the "
+#~ "MCE editor"
+#~ msgstr ""
+#~ "Aby to pro vás jednodušší, jsme přidali tlačítka <u> Shortcode tlačítko </"
+#~ "u> v MCE editoru"
+
+#~ msgid "Overview of your system settings"
+#~ msgstr "Přehled nastavení systému"
+
+#~ msgid "Requested item isn't allowed"
+#~ msgstr "Požadovaná položka není povolena"
+
+#~ msgid "Couldn't create zip file"
+#~ msgstr "Nelze vytvořit soubor .zip"
+
+#~ msgid "Load more..."
+#~ msgstr "Načíst další..."
+
+#~ msgid "Drive Upload"
+#~ msgstr "Nahrát na Drive"
+
+#~ msgid "Select Use-your-Drive options"
+#~ msgstr "Nastavení možností Use-your-Drive"
+
+#~ msgid "File(s) deleted on your Google Drive"
+#~ msgstr "Soubor(y) smazán(y) z Google Disku"
+
+#~ msgid "Limit by extension"
+#~ msgstr "Limit rozšířením"
+
+#~ msgid "Limit by name"
+#~ msgstr "Limit podle názvu"
+
+#~ msgid "Exclude by name"
+#~ msgstr "Vyloučit podle názvu"
+
+#~ msgid "Start uploading automatically (no start/cancel buttons)"
+#~ msgstr "Spuštění nahrávání automaticky (žádný start / zrušit tlačítkem)"
+
+#~ msgid "Select which WordPress Roles can rename files and folders"
+#~ msgstr "Vyberte, které role WordPress můžou přejmenovat soubory a složky"
+
+#~ msgid "Start upload"
+#~ msgstr "Spustit nahrávání"
+
+#~ msgid "Cancel upload"
+#~ msgstr "Zrušit nahrávání"
+
+#~ msgid "Max. "
+#~ msgstr "Max. "
+
+#~ msgid "Filelist"
+#~ msgstr "Filelist"
+
+#~ msgid "Photogallery"
+#~ msgstr "Photogallery"
+
+#~ msgid "You can link the folders"
+#~ msgstr "You can link the folders"
+
+#~ msgid "Layout"
+#~ msgstr "Layout"
+
+#~ msgid "Show files as:"
+#~ msgstr "Show files as:"
+
+#~ msgid "Files with thumbnails in a grid"
+#~ msgstr "Files with thumbnails in a grid"
+
+#~ msgid "A list of files"
+#~ msgstr "A list of files"
+
+#~ msgid "Show folders breadcrumb"
+#~ msgstr "Show folders breadcrumb"
+
+#~ msgid "Show searchbox"
+#~ msgstr "Show searchbox"
+
+#~ msgid "Sort files and folders by:"
+#~ msgstr "Sort files and folders by:"
+
+#~ msgid "Show columnnames"
+#~ msgstr "Show columnnames"
+
+#~ msgid "Show download button (zip-archive)"
+#~ msgstr "Show download button (zip-archive)"
+
+#~ msgid "Show share button"
+#~ msgstr "Show share button"
+
+#~ msgid "Show refresh button"
+#~ msgstr "Show refresh button"
+
+#~ msgid "Media files"
+#~ msgstr "Media files"
+
+#~ msgid "Do always supply a mp3 file to support all browsers"
+#~ msgstr "Do always supply a mp3 file to support all browsers"
+
+#~ msgid "Do always supply a m4v/mp4 file to support all browsers"
+#~ msgstr "Do always supply a m4v/mp4 file to support all browsers"
+
+#~ msgid "Allow download - Show direct link to media file"
+#~ msgstr "Allow download - Show direct link to media file"
+
+#~ msgid "Sorting"
+#~ msgstr "Sorting"
+
+#~ msgid "Sort order:"
+#~ msgstr "Sort order:"
+
+#~ msgid "Filelist options"
+#~ msgstr "Filelist options"
+
+#~ msgid "Show files in folder"
+#~ msgstr "Show files in folder"
+
+#~ msgid "Show folders in folder"
+#~ msgstr "Show folders in folder"
+
+#~ msgid "Show filesize"
+#~ msgstr "Show filesize"
+
+#~ msgid "Show date last modified"
+#~ msgstr "Show date last modified"
+
+#~ msgid "Gallery options"
+#~ msgstr "Gallery options"
+
+#~ msgid "Row height"
+#~ msgstr "Row height"
+
+#~ msgid "Don't stretch last row to fit grid width"
+#~ msgstr "Don't stretch last row to fit grid width"
+
+#~ msgid "Shuffle images"
+#~ msgstr "Shuffle images"
+
+#~ msgid "Exclusions"
+#~ msgstr "Exclusions"
+
+#~ msgid "Include files or folders (only show these items)"
+#~ msgstr "Include files or folders (only show these items)"
+
+#~ msgid "Exclude files or folders"
+#~ msgstr "Exclude files or folders"
+
+#~ msgid "Upload form options"
+#~ msgstr "Upload form options"
+
+#~ msgid "Email notifications"
+#~ msgstr "Email notifications"
+
+#~ msgid "Edit files &amp; folders"
+#~ msgstr "Edit files &amp; folders"
+
+#~ msgid "Files &amp; folders can be renamed"
+#~ msgstr "Files &amp; folders can be renamed"
+
+#~ msgid "Files &amp; folders can be deleted"
+#~ msgstr "Files &amp; folders can be deleted"
+
+#~ msgid "Can add new folders"
+#~ msgstr "Can add new folders"
+
+#~ msgid "User management"
+#~ msgstr "User management"
+
+#~ msgid "Download files"
+#~ msgstr "Download files"
+
+#~ msgid "Rename files & folders"
+#~ msgstr "Rename files & folders"
+
+#~ msgid "Delete files & folders"
+#~ msgstr "Delete files & folders"
+
+#~ msgid "Add folders"
+#~ msgstr "Add folders"
+
+#~ msgid "Note"
+#~ msgstr "Note"
+
+#~ msgid "Remove 'Guest' from View Roles to disable guests to use the plugin"
+#~ msgstr "Remove 'Guest' from View Roles to disable guests to use the plugin"
+
+#~ msgid "See and edit all user folders"
+#~ msgstr "See and edit all user folders"
+
+#~ msgid "Select template folder"
+#~ msgstr "Select template folder"
